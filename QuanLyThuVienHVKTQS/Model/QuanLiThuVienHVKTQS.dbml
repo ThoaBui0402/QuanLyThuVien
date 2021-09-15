@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyThuVienHVKTQS" Class="QuanLiThuVienHVKTQSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=QuanLyThuVienHVKTQS;Integrated Security=True" SettingsObjectName="QuanLyThuVienHVKTQS.Properties.Settings" SettingsPropertyName="QuanLyThuVienHVKTQSConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.docgia" Member="docgias">
+    <Type Name="docgia">
+      <Column Name="sothe" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="hoten" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ngaysinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="gioitinh" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="socmtnd" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="anhthe" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ngaylamthe" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="handungthe" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="docgia_MuonSach" Member="MuonSaches" ThisKey="sothe" OtherKey="sothe" Type="MuonSach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="IsAdmin" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MuonSach" Member="MuonSaches">
+    <Type Name="MuonSach">
+      <Column Name="Mamuon" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sothe" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="masach" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="soluong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ngaymuon" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="hantra" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="manv" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="docgia_MuonSach" Member="docgia" ThisKey="sothe" OtherKey="sothe" Type="docgia" IsForeignKey="true" />
+      <Association Name="nhanvien_MuonSach" Member="nhanvien" ThisKey="manv" OtherKey="manv" Type="nhanvien" IsForeignKey="true" />
+      <Association Name="sach_MuonSach" Member="sach" ThisKey="masach" OtherKey="masach" Type="sach" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nhanvien" Member="nhanviens">
+    <Type Name="nhanvien">
+      <Column Name="manv" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tennv" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sdt" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ngaysinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="gioitinh" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="socmtnd" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="anh" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="quyenhan" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="matkhau" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="nhanvien_MuonSach" Member="MuonSaches" ThisKey="manv" OtherKey="manv" Type="MuonSach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nhaxuatban" Member="nhaxuatbans">
+    <Type Name="nhaxuatban">
+      <Column Name="manxb" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tennxb" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sdt" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="nhaxuatban_sach" Member="saches" ThisKey="manxb" OtherKey="manxb" Type="sach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sach" Member="saches">
+    <Type Name="sach">
+      <Column Name="masach" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tensach" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="tentacgia" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="manxb" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="giatien" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="soluong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ngonngu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sotrang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="namxb" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="theloai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="sach_MuonSach" Member="MuonSaches" ThisKey="masach" OtherKey="masach" Type="MuonSach" />
+      <Association Name="nhaxuatban_sach" Member="nhaxuatban" ThisKey="manxb" OtherKey="manxb" Type="nhaxuatban" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

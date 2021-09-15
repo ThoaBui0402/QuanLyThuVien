@@ -1,0 +1,845 @@
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojResolveAssemblyReference.cache
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMuonsach.resources
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.Cache
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+D:\Project\With visua studio\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.Cache
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojResolveAssemblyReference.cache
+F:\nam 4 ky1\TT nhom\QuanLyThuVienHVKTQS\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojResolveAssemblyReference.cache
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.Cache
+C:\Users\DAT\Documents\GitHub\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojAssemblyReference.cache
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+G:\Study\Year 4\Ky 1\BT TT Nhóm\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojAssemblyReference.cache
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+G:\Study\Year 4\Ky 1\BT TT Nhóm\ok\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojResolveAssemblyReference.cache
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.Cache
+C:\Users\ADMIRAL\Desktop\QuanLyThuVien-master\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+C:\Users\ADMIRAL\Documents\GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojResolveAssemblyReference.cache
+C:\Users\ADMIRAL\Documents\GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\ADMIRAL\Documents\GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\ADMIRAL\Documents\GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v16.1.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v16.1.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v16.1.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojResolveAssemblyReference.cache
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.Cache
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+H:\HOCTAP\ky1_nam4\Github\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojAssemblyReference.cache
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+D:\Nam 4\ky1\ThucTapNhom\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojAssemblyReference.cache
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\Nylk\Desktop\Học kì 6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csprojAssemblyReference.cache
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+C:\Users\Nylk\Desktop\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v20.1.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.AssemblyReference.cache
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmDocGia.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhanVien.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmNhaXuatBan.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmSach.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmTTMuonSach.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmUser.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+D:\HK6\TT NHom\TTNhom_GitHub\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v20.1.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.AssemblyReference.cache
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+E:\QLThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe.config
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.exe
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\QuanLyThuVienHVKTQS.pdb
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.v20.1.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\EntityFramework.SqlServer.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.AssemblyReference.cache
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.frmMain.resources
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.Properties.Resources.resources
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.GenerateResource.cache
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe.licenses
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CoreCompileInputs.cache
+e:\quanlythuvien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
+E:\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb

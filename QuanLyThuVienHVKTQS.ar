@@ -1,0 +1,1734 @@
+!<arch>
+frmDocGia.resx/ 1511337340  1000  1000  100777  5817      `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+</root>
+
+
+
+
+
+packages.config/1510109153  1000  1000  100777  143       `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="EntityFramework" version="6.1.3" targetFramework="net452" />
+</packages>
+
+
+
+
+
+
+frmUser.resx/   1511335253  1000  1000  100777  6015      `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>
+
+
+
+
+frmUser.cs/     1511335684  1000  1000  100777  4854      `
+﻿using QuanLyThuVienHVKTQS.controller;
+using QuanLyThuVienHVKTQS.Model;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLyThuVienHVKTQS
+{
+    public partial class frmUser : Form
+    {
+        private bool Them_bool=false;
+        private bool Sua_bool=false;
+        List<User> l = null;
+        public frmUser()
+        {
+            InitializeComponent();
+            HienThi_User();
+        }
+        public void btn_enable(bool t)
+        {
+            groupuser.Enabled = t;
+            luu_userbtn.Enabled = t;
+            boqua_userbtn.Enabled = t;
+            Them_userbtn.Enabled = !t;
+            Sua_userbtn.Enabled = !t;
+            xoa_userbtn.Enabled = !t;
+            Them_bool = Sua_bool = false;
+        }
+        public void HienThi_User()
+        {
+            
+            var user = new UserController();
+            l = user.Detail();
+            listView_User.Items.Clear();
+            int i = 1;
+            foreach (User u in l)
+            {
+                ListViewItem item = new ListViewItem();
+                item.Text = "" + i++;
+                item.SubItems.Add(u.ID.ToString());
+                item.SubItems.Add(u.UserName.ToString());
+                item.SubItems.Add(u.Password.ToString());
+                item.SubItems.Add(u.IsAdmin.ToString());
+
+                listView_User.Items.Add(item);
+            }
+            btn_enable(false);
+        }
+
+        public void ListView_User_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (listView_User.SelectedItems.Count == 0) return;
+            int id = Convert.ToInt32(listView_User.SelectedItems[0].SubItems[1].Text);
+            int index = l.FindIndex(m=>m.ID==id);
+
+            IDtxt.Text = l[index].ID.ToString();
+            usernametxt.Text = l[index].UserName.ToString();
+            passwordtxt.Text = l[index].Password.ToString();
+            isadmincbx.Text = l[index].IsAdmin.ToString();
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            btn_enable(true);
+            IDtxt.Text = "";
+            usernametxt.Text = "";
+            passwordtxt.Text = "";
+            isadmincbx.Text = "false";
+            Them_bool = true;
+            
+        }
+
+        private void Sua_userbtn_Click(object sender, EventArgs e)
+        {
+            btn_enable(true);
+            Sua_bool = true;
+            
+        }
+
+        private void xoa_userbtn_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có muốn xóa người dùng này?", "delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            if (result == DialogResult.Yes)
+            {
+                int id = Convert.ToInt32(IDtxt.Text);
+                var entity = new UserController();
+                if (entity.Delete(id))
+                    HienThi_User();
+                else
+                    MessageBox.Show("Xóa người dùng không thành công");
+            }
+        }
+
+        private void luu_userbtn_Click(object sender, EventArgs e)
+        {
+            if(Them_bool==true && Sua_bool==false)
+            {
+                var user = new User();
+                
+                user.UserName = usernametxt.Text;
+                user.Password = passwordtxt.Text;
+                user.IsAdmin = Convert.ToBoolean(isadmincbx.Text);
+
+                var entity = new UserController();
+                if(entity.Add(user)>0)
+                {
+                    HienThi_User();
+                }
+                else
+                    MessageBox.Show("Thêm không thành công");
+            }
+            else if(Them_bool == false && Sua_bool == true)
+            {
+                var user = new User();
+                user.ID =Convert.ToInt32(IDtxt.Text);
+                user.UserName = usernametxt.Text;
+                user.Password = passwordtxt.Text;
+                user.IsAdmin =Convert.ToBoolean(isadmincbx.Text);
+
+                var entity = new UserController();
+                if (entity.Edit(user))
+                {
+                    HienThi_User();
+                }
+                else
+                    MessageBox.Show("Thêm không thành công");
+            }
+            btn_enable(false);
+        }
+
+        private void boqua_userbtn_Click(object sender, EventArgs e)
+        {
+            btn_enable(false);
+        }
+
+        private void thoat_userbtn_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
+frmMain.cs/     1511338453  1000  1000  100777  6020      `
+﻿using QuanLyThuVienHVKTQS.controller;
+using QuanLyThuVienHVKTQS.Model;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLyThuVienHVKTQS
+{
+    
+    public partial class frmMain : Form
+    {
+        public frmMain()
+        {
+            InitializeComponent();
+            Load_Main();
+        }
+        public void Load_Main()
+        {
+            quanLiDanhMucToolStripMenuItem.Enabled = false;
+            if(PhanQuyen.quyen==1)
+            {
+                quanLiDanhMucToolStripMenuItem.Enabled = true;
+                đăngXuâtToolStripMenuItem.Enabled = true;
+                danhMucĐôcGiaToolStripMenuItem.Enabled = true;
+                danhMucNhânViênToolStripMenuItem.Enabled = true;
+                danhMucNhaXuâtBanToolStripMenuItem.Enabled = true;
+                quanLiSachToolStripMenuItem.Enabled = true;
+                quảnLýMượntrảSáchToolStripMenuItem.Enabled = true;
+                quanlynguoidung_toolStripMenuItem.Enabled = true;
+            }
+            else if(PhanQuyen.quyen==0)
+            {
+                quanLiDanhMucToolStripMenuItem.Enabled = true;
+                đăngXuâtToolStripMenuItem.Enabled = true;
+                danhMucĐôcGiaToolStripMenuItem.Enabled = true;
+                danhMucNhânViênToolStripMenuItem.Enabled = true;
+                danhMucNhaXuâtBanToolStripMenuItem.Enabled = true;
+                quanLiSachToolStripMenuItem.Enabled = true;
+                quảnLýMượntrảSáchToolStripMenuItem.Enabled = true;
+                quanlynguoidung_toolStripMenuItem.Enabled = false;
+            }
+            else
+            {
+                đăngXuâtToolStripMenuItem.Enabled = false;
+                quanLiDanhMucToolStripMenuItem.Enabled = false;
+            }
+        }
+        private void ShowDG()
+        {
+            frmDocGia dg = new frmDocGia();
+            dg.ShowDialog();
+        }
+        private void Show_NV()
+        {
+            frmNhanVien nv = new frmNhanVien();
+            nv.ShowDialog();
+        }
+        private void Show_NXB()
+        {
+            frmNhaXuatBan nxb = new frmNhaXuatBan();
+            nxb.ShowDialog();
+        }
+        private void Show_Sach()
+        {
+            frmSach s = new frmSach();
+            s.ShowDialog();
+        }
+        private void Show_MS()
+        {
+            frmTTMuonSach ms = new frmTTMuonSach();
+            ms.ShowDialog();
+        }
+        private void Show_User()
+        {
+            frmUser user = new frmUser();
+            user.ShowDialog();
+        }
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dangnhapbtn_Click(object sender, EventArgs e)
+        {
+            var entity = new User();
+            entity.UserName = usernametxt.Text;
+            entity.Password = passwordtxt.Text;
+            
+            
+            try
+            {
+                var s = new UserController();
+                var result = s.IsAdmin(entity);
+                if (result == -1)
+                {
+                    MessageBox.Show("Đăng nhập không chính xác");
+                    PhanQuyen.quyen = -1;
+                    Load_Main();
+                }
+                else if (result == 0)
+                {
+                    MessageBox.Show("Đăng nhập thành công với quyền user");
+                    PhanQuyen.quyen = 0;
+                    Load_Main();
+                }
+                else if (result == 1)
+                {
+                    MessageBox.Show("Đăng nhập thành công với quyền admin");
+                    PhanQuyen.quyen = 1;
+                    Load_Main();
+                }
+            }
+            catch(Exception)
+            {
+                MessageBox.Show("Đăng nhập không thành công");
+                PhanQuyen.quyen = -1;
+                Load_Main();
+            }
+            
+        }
+
+        private void dangkybtn_Click(object sender, EventArgs e)
+        {
+            var entity = new User();
+            entity.UserName = usernametxt.Text;
+            entity.Password = passwordtxt.Text;
+            entity.IsAdmin = false;
+            var s = new UserController();
+            var result = s.Add(entity);
+            if(result>0)
+            {
+                MessageBox.Show("Đăng ký thành công");
+            }
+            else
+            {
+                MessageBox.Show("Đăng ký không thành công ");
+            }
+        }
+
+        private void đăngXuâtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            usernametxt.Text = "";
+            passwordtxt.Text = "";
+            PhanQuyen.quyen = -1;
+            Load_Main();
+        }
+
+        private void thoatChươngTrinhToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void danhMucĐôcGiaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ShowDG();
+        }
+
+        private void danhMucNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Show_NV();
+        }
+
+        private void danhMucNhaXuâtBanToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Show_NXB();
+        }
+
+        private void quanLiSachToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Show_Sach();
+        }
+
+        private void quảnLýMượntrảSáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Show_MS();
+        }
+
+        private void quanlynguoidung_toolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Show_User();
+        }
+    }
+}
+frmNhanVien.cs/ 1511339451  1000  1000  100777  6842      `
+﻿using QuanLyThuVienHVKTQS.controller;
+using QuanLyThuVienHVKTQS.Model;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLyThuVienHVKTQS
+{
+    public partial class frmNhanVien : Form
+    {
+        List<nhanvien> l =null;
+        private bool Them_bool = false;
+        private bool Sua_bool = false;
+
+        public void btn_edit(bool t)
+        {
+            groupedit_NV.Enabled = t;
+            ThemNV.Enabled = !t;
+            SuaNV.Enabled = !t;
+            XoaNV.Enabled = !t;
+            LuuNV.Enabled = t;
+            BoquaNV.Enabled = t;
+            Them_bool = false;
+            Sua_bool = false;
+        }
+        public frmNhanVien()
+        {
+            InitializeComponent();
+            HienthiNV();
+        }
+
+        public void HienthiNV()
+        {
+            
+            var nv = new NhanVienController();
+            l = nv.Detail();
+            listView_NV.Items.Clear();
+            var i = 1;
+
+            manvtxt.Text = l[0].manv.ToString();
+            tennvtxt.Text = l[0].tennv.ToString();
+            ngaysinhnv.Text = l[0].ngaysinh.ToString();
+            if (l[0].gioitinh == null) gioitinhtxt.Text = "";
+            else gioitinhtxt.Text = l[0].gioitinh.ToString();
+            if (l[0].sdt == null) sdttxt.Text = "";
+            else sdttxt.Text = l[0].sdt.ToString();
+            if (l[0].diachi == null) diachitxt.Text = "";
+            else   diachitxt.Text = l[0].diachi.ToString();
+            if (l[0].socmtnd == null) socmtndtxt.Text = "";
+            else   socmtndtxt.Text = l[0].socmtnd.ToString();
+            if (l[0].quyenhan == null) quyenhantxt.Text = "";
+            else    quyenhantxt.Text = l[0].quyenhan.ToString();
+            
+            foreach(nhanvien row in l)
+            {
+                ListViewItem item = new ListViewItem();
+
+                item.Text = "" + i++;
+                item.SubItems.Add(row.manv.ToString());
+                item.SubItems.Add(row.tennv.ToString());
+                item.SubItems.Add(row.diachi.ToString());
+                item.SubItems.Add(row.sdt.ToString());
+                listView_NV.Items.Add(item);
+            }
+            if (PhanQuyen.quyen == 1)
+                btn_edit(false);
+            else
+            {
+                groupedit_NV.Enabled = false;
+                ThemNV.Enabled = SuaNV.Enabled = XoaNV.Enabled = LuuNV.Enabled = BoquaNV.Enabled = false;
+                Thoat.Enabled = true;
+            }
+                
+        }
+
+        private void ListView_NV_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (listView_NV.SelectedItems.Count == 0)
+                return;
+            int i = Convert.ToInt32(listView_NV.SelectedItems[0].SubItems[1].Text);
+            int index = l.FindIndex(m => m.manv == i);
+            manvtxt.Text = l[index].manv.ToString();
+            tennvtxt.Text = l[index].tennv.ToString();
+            ngaysinhnv.Text = l[index].ngaysinh.ToString();
+            if (l[index].gioitinh == null) gioitinhtxt.Text = "";
+            else gioitinhtxt.Text = l[index].gioitinh.ToString();
+            if (l[index].sdt == null) sdttxt.Text = "";
+            else sdttxt.Text = l[index].sdt.ToString();
+            if (l[index].diachi == null) diachitxt.Text = "";
+            else diachitxt.Text = l[index].diachi.ToString();
+            if (l[index].socmtnd == null) socmtndtxt.Text = "";
+            else socmtndtxt.Text = l[index].socmtnd.ToString();
+            if (l[index].quyenhan == null) quyenhantxt.Text = "";
+            else quyenhantxt.Text = l[index].quyenhan.ToString();
+        }
+
+        private void ThemNV_Click(object sender, EventArgs e)
+        {
+            btn_edit(true);
+            manvtxt.Text = "";
+            tennvtxt.Text = "";
+            gioitinhtxt.Text = "";
+            sdttxt.Text = "";
+            diachitxt.Text = "";
+            socmtndtxt.Text = "";
+            quyenhantxt.Text = "";
+            this.Them_bool = true;
+        }
+
+
+        private void Thoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void SuaNV_Click(object sender, EventArgs e)
+        {
+            btn_edit(true);
+            Sua_bool = true;
+        }
+
+        private void XoaNV_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có muốn xóa nhân viên này?", "Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            if(result==DialogResult.Yes)
+            {
+                int id = Convert.ToInt32(manvtxt.Text);
+                var entity = new NhanVienController();
+                if (entity.delete(id))
+                    HienthiNV();
+                else
+                    MessageBox.Show("Không xóa được!");
+            }
+        }
+
+        private void LuuNV_Click(object sender, EventArgs e)
+        {
+            if(Them_bool==true && Sua_bool==false)
+            {
+                var entity = new nhanvien();
+                
+                entity.tennv = tennvtxt.Text;
+                entity.ngaysinh = ngaysinhnv.Value;
+                entity.gioitinh = gioitinhtxt.Text;
+                entity.sdt = sdttxt.Text;
+                entity.diachi = diachitxt.Text;
+                entity.socmtnd = socmtndtxt.Text;
+                entity.quyenhan = quyenhantxt.Text;
+
+                var nv = new NhanVienController();
+                int t = nv.Add(entity);
+                if (t > 0)
+                    HienthiNV();
+                else
+                    MessageBox.Show("Thêm nhân viên lỗi!");
+            }
+            if(Them_bool==false && Sua_bool==true)
+            {
+                var entity = new nhanvien();
+                entity.manv =Convert.ToInt32(manvtxt.Text);
+                entity.tennv = tennvtxt.Text;
+                entity.ngaysinh = ngaysinhnv.Value;
+                entity.gioitinh = gioitinhtxt.Text;
+                entity.sdt = sdttxt.Text;
+                entity.diachi = diachitxt.Text;
+                entity.socmtnd = socmtndtxt.Text;
+                entity.quyenhan = quyenhantxt.Text;
+
+                var nv = new NhanVienController();
+                if (nv.edit(entity))
+                    HienthiNV();
+                else
+                    MessageBox.Show("Sửa lỗi!");
+            }
+            btn_edit(false);
+        }
+
+        private void BoquaNV_Click(object sender, EventArgs e)
+        {
+            btn_edit(false);
+        }
+    }
+}
+frmMain.resx/   1511338453  1000  1000  100777  6214      `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>237, 17</value>
+  </metadata>
+</root>PhanQuyen.cs/   1511337695  1000  1000  100777  249       `
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QuanLyThuVienHVKTQS
+{
+    public static class PhanQuyen
+    {
+        public static int quyen=-1;
+    }
+}
+
+
+
+
+
+
+
+frmSach.cs/     1511339415  1000  1000  100777  8978      `
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using QuanLyThuVienHVKTQS.controller;
+using QuanLyThuVienHVKTQS.Model;
+
+namespace QuanLyThuVienHVKTQS
+{
+    public partial class frmSach : Form
+    {
+        List<sach> l = null;
+        private bool Them_bool = false;
+        private bool Sua_bool = false;
+        public frmSach()
+        {
+            InitializeComponent();
+            HienThiSach();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        void HienThiSach()
+        {
+            var s = new SachController();
+            l = s.Detail();
+            lvSach.Items.Clear();
+            
+            var i = 1;
+
+            var nxb = new NhaXuatBanController();
+            List<nhaxuatban> listNXB = nxb.Detail();
+
+            cbbNXB.DataSource = listNXB;
+            cbbNXB.DisplayMember = "tennxb";
+            cbbNXB.ValueMember = "manxb".ToString();
+
+            txtMaSach.Text = l[0].masach.ToString();
+            txtTenSach.Text = l[0].tensach.ToString();
+            txtTacGia.Text = l[0].tentacgia.ToString();
+            if (l[0].nhaxuatban != null)
+                cbbNXB.Text = l[0].nhaxuatban.tennxb.ToString();
+            else
+                cbbNXB.Text = "";
+            txtNamXB.Text = l[0].namxb.ToString();
+            txtSoTrang.Text = l[0].sotrang.ToString();
+            txtGiaTien.Text = l[0].giatien.ToString();
+            txtSoLuong.Text = l[0].soluong.ToString();
+            txtNgonNgu.Text = l[0].ngonngu.ToString();
+            txtTheLoai.Text = l[0].theloai.ToString();
+            foreach (sach row in l)
+            {
+                ListViewItem item = new ListViewItem();
+                item.Text = "" + i++;
+
+                item.SubItems.Add(row.masach.ToString());
+                item.SubItems.Add(row.tensach.ToString());
+                item.SubItems.Add(row.theloai.ToString());
+                item.SubItems.Add(row.ngonngu.ToString());
+                item.SubItems.Add(row.soluong.ToString());
+
+                lvSach.Items.Add(item);
+            }
+            if (PhanQuyen.quyen == 1)
+                btn_edit(false);
+            else
+            {
+                grpEdit.Enabled = false;
+                btnThemSach.Enabled = btnSuaSach.Enabled = btnXoaSach.Enabled = btnLuuSach.Enabled = btnBoQua.Enabled = false;
+                btnThoat.Enabled = true;
+            }
+        }
+
+        private void lvSach_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (lvSach.SelectedItems.Count == 0)
+                return;
+            int i = Convert.ToInt32(lvSach.SelectedItems[0].SubItems[1].Text);
+            int index = l.FindIndex(m => m.masach == i);
+            txtMaSach.Text = l[index].masach.ToString();
+            txtTenSach.Text = l[index].tensach.ToString();
+            txtTacGia.Text = l[index].tentacgia.ToString();
+            if (l[index].manxb != null)
+                cbbNXB.Text = l[index].nhaxuatban.tennxb.ToString();
+            else
+                cbbNXB.Text = "";
+            txtNamXB.Text = l[index].namxb.ToString();
+            txtSoTrang.Text = l[index].sotrang.ToString();
+            txtGiaTien.Text = l[index].giatien.ToString();
+            txtSoLuong.Text = l[index].soluong.ToString();
+            txtNgonNgu.Text = l[index].ngonngu.ToString();
+            txtTheLoai.Text = l[index].theloai.ToString();
+
+        }
+
+        private void btnThemSach_Click(object sender, EventArgs e)
+        {
+
+            btn_edit(true);
+            txtMaSach.Text = "";
+            txtTenSach.Text = "";
+            txtTacGia.Text = "";
+            //txtNXB.Text = "";
+            txtNamXB.Text = "";
+            txtSoTrang.Text = "";
+            txtGiaTien.Text = "";
+            txtSoLuong.Text = "";
+            txtNgonNgu.Text = "";
+            txtTheLoai.Text = "";
+            this.Them_bool = true;
+        }
+        public void btn_edit(bool t)
+        {
+            grpEdit.Enabled = t;
+            btnLuuSach.Enabled = t;
+            btnBoQua.Enabled = t;
+            btnThemSach.Enabled = !t;
+            btnSuaSach.Enabled = !t;
+            btnXoaSach.Enabled = !t;
+            btnThoat.Enabled = !t;
+            Them_bool = false;
+            Sua_bool = false;
+        }
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnBoQua_Click(object sender, EventArgs e)
+        {
+            btn_edit(false);
+        }
+
+        private void btnSuaSach_Click(object sender, EventArgs e)
+        {
+            btn_edit(true);
+            this.Sua_bool = true;
+        }
+        private void btnLuuSach_Click(object sender, EventArgs e)
+        {
+            if (Them_bool == true && Sua_bool == false)
+            {
+                sach entity = new sach();
+                //txtMaSach.Text = "";
+                entity.tensach = txtTenSach.Text;
+                entity.tentacgia = txtTacGia.Text;
+                entity.manxb = Convert.ToInt32(cbbNXB.SelectedValue.ToString());
+                if (txtNamXB.Text.Length > 0)
+                    entity.namxb = Convert.ToInt32(txtNamXB.Text);
+                if (txtSoTrang.Text.Length > 0)
+                    entity.sotrang = Convert.ToInt32(txtSoTrang.Text);
+                if (txtGiaTien.Text.Length > 0)
+                    entity.giatien = Convert.ToDecimal(txtGiaTien.Text);
+                if (txtSoLuong.Text.Length > 0)
+                    entity.soluong = Convert.ToInt32(txtSoLuong.Text);
+                entity.ngonngu = txtNgonNgu.Text;
+                entity.theloai = txtTheLoai.Text;
+                var s = new SachController();
+                int t=s.Add(entity);
+                if(t>0)
+                HienThiSach();
+            }
+            if (Them_bool == false && Sua_bool == true)
+            {
+                sach entity = new sach();
+                entity.masach = Convert.ToInt32(txtMaSach.Text);
+                entity.tensach = txtTenSach.Text;
+                entity.tentacgia = txtTacGia.Text;
+                entity.manxb = Convert.ToInt32(cbbNXB.SelectedValue.ToString());
+                if (txtNamXB.Text.Length > 0)
+                    entity.namxb = Convert.ToInt32(txtNamXB.Text);
+                if (txtSoTrang.Text.Length > 0)
+                    entity.sotrang = Convert.ToInt32(txtSoTrang.Text);
+                if (txtGiaTien.Text.Length > 0)
+                    entity.giatien = Convert.ToDecimal(txtGiaTien.Text);
+                if (txtSoLuong.Text.Length > 0)
+                    entity.soluong = Convert.ToInt32(txtSoLuong.Text);
+                entity.ngonngu = txtNgonNgu.Text;
+                entity.theloai = txtTheLoai.Text;
+                var s = new SachController();
+                if (s.Edit(entity))
+                    HienThiSach();
+                else
+                {
+                    MessageBox.Show("khong sua duoc!");
+                }
+            }
+            btn_edit(false);
+        }
+
+        private void btnXoaSach_Click(object sender, EventArgs e)
+        {
+            DialogResult result=MessageBox.Show("ban co thuc su muon xoa?", "Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            if (result == DialogResult.Yes)
+            {
+                int masach = Convert.ToInt32(txtMaSach.Text);
+                var s = new SachController();
+                if (s.Del(masach))
+                    HienThiSach();
+                else
+                {
+                    MessageBox.Show("khong xoa duoc!");
+                }
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            int i = 1;
+            QuanLiThuVienHVKTQSDataContext db = new QuanLiThuVienHVKTQSDataContext();
+            var lst = (from s in db.saches where (s.masach.ToString().Contains(search_sachtxt.Text) || s.tensach.ToString().Contains(search_sachtxt.Text)) select s).ToList();
+            lvSach.Items.Clear();
+            foreach (sach s in lst)
+            {
+                ListViewItem item = new ListViewItem();
+                item.Text = "" + i++;
+                item.SubItems.Add(s.masach.ToString());
+                item.SubItems.Add(s.tensach.ToString());
+                item.SubItems.Add(s.theloai.ToString());
+                item.SubItems.Add(s.ngonngu.ToString());
+                item.SubItems.Add(s.soluong.ToString());
+
+                lvSach.Items.Add(item);
+            }
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+App.config/     1510109160  1000  1000  100777  1735      `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <!-- For more information on Entity Framework configuration, visit http://go.microsoft.com/fwlink/?LinkID=237468 -->
+    <section name="entityFramework" type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+  </configSections>
+  <connectionStrings>
+    <add name="QuanLyThuVienHVKTQS.Properties.Settings.QuanLyThuVienHVKTQSConnectionString" connectionString="Data Source=DESKTOP-F0UBS2N;Initial Catalog=QuanLyThuVienHVKTQS;Integrated Security=True" providerName="System.Data.SqlClient" />
+    <add name="QuanLyThuVienHVKTQSEntities" connectionString="metadata=res://*/Model.QuanLiThuVienHVKTQS.csdl|res://*/Model.QuanLiThuVienHVKTQS.ssdl|res://*/Model.QuanLiThuVienHVKTQS.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-F0UBS2N;initial catalog=QuanLyThuVienHVKTQS;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <entityFramework>
+    <defaultConnectionFactory type="System.Data.Entity.Infrastructure.LocalDbConnectionFactory, EntityFramework">
+      <parameters>
+        <parameter value="v11.0" />
+      </parameters>
+    </defaultConnectionFactory>
+    <providers>
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer" />
+    </providers>
+  </entityFramework>
+</configuration>
+frmSach.resx/   1511338779  1000  1000  100777  5817      `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+</root>
+Program.cs/     1511336006  1000  1000  100777  544       `
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLyThuVienHVKTQS
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new frmMain());
+        }
+    }
+}
+Resources.resx/ 1505724925  1000  1000  100777  5612      `
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+</root>frmDocGia.cs/   1511339473  1000  1000  100777  8514      `
+﻿using QuanLyThuVienHVKTQS.controller;
+using QuanLyThuVienHVKTQS.Model;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace QuanLyThuVienHVKTQS
+{
+    public partial class frmDocGia : Form
+    {
+        List<docgia> l = null;
+        private bool Them_bool = false;
+        private bool Sua_bool = false;
+        public frmDocGia()
+        {
+            InitializeComponent();
+            HienThi_DG();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        public void HienThi_DG()
+        {
+            var dg = new DocGiaController();
+            l = dg.Detail();
+            listView_DG.Items.Clear();
+            int i = 1;
+
+            sothetxt.Text = l[0].sothe.ToString();
+            tendgtxt.Text = l[0].hoten.ToString();
+            ngaysinhdg.Text = l[0].ngaysinh.ToString();
+            if (l[0].gioitinh == null) gioitinhdgtxt.Text = "";
+            else gioitinhdgtxt.Text = l[0].gioitinh.ToString();
+            if (l[0].email == null) emaildgtxt.Text = "";
+            else emaildgtxt.Text = l[0].email.ToString();
+            if (l[0].diachi == null) diachidgtxt.Text = "";
+            else diachidgtxt.Text = l[0].diachi.ToString();
+            if (l[0].socmtnd == null) socmtnddgtxt.Text = "";
+            else socmtnddgtxt.Text = l[0].socmtnd.ToString();
+            if (l[0].ngaylamthe == null) ngaythedg.Text = "";
+            else ngaythedg.Text = l[0].ngaylamthe.ToString();
+            if (l[0].handungthe == null) hanthedg.Text = "";
+            else hanthedg.Text = l[0].handungthe.ToString();
+            foreach (var row in l)
+            {
+                ListViewItem item = new ListViewItem();
+                item.Text = "" + i++;
+                item.SubItems.Add(row.sothe.ToString());
+                item.SubItems.Add(row.hoten.ToString());
+                item.SubItems.Add(row.ngaysinh.ToString());
+                item.SubItems.Add(row.ngaylamthe.ToString());
+
+                listView_DG.Items.Add(item);
+            }
+            if (PhanQuyen.quyen == 1)
+                btn_enable(false);
+            else
+            {
+                groupDG.Enabled = false;
+                Them_DG.Enabled = Sua_DG.Enabled = Xoa_DG.Enabled = Luu_DG.Enabled = Boqua_DG.Enabled = false;
+                Thoat_DG.Enabled = true;
+            }
+        }
+
+        public void ListView_DG_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (listView_DG.SelectedItems.Count == 0) return;
+            int id = Convert.ToInt32(listView_DG.SelectedItems[0].SubItems[1].Text);
+            int index = l.FindIndex(m => m.sothe == id);
+
+            sothetxt.Text = l[index].sothe.ToString();
+            tendgtxt.Text = l[index].hoten.ToString();
+            ngaysinhdg.Text = l[index].ngaysinh.ToString();
+            if (l[index].gioitinh == null) gioitinhdgtxt.Text = "";
+            else gioitinhdgtxt.Text = l[index].gioitinh.ToString();
+            if (l[index].email == null) emaildgtxt.Text = "";
+            else emaildgtxt.Text = l[index].email.ToString();
+            if (l[index].diachi == null) diachidgtxt.Text = "";
+            else diachidgtxt.Text = l[index].diachi.ToString();
+            if (l[index].socmtnd == null) socmtnddgtxt.Text = "";
+            else socmtnddgtxt.Text = l[index].socmtnd.ToString();
+            if (l[index].ngaylamthe == null) ngaythedg.Text = "";
+            else ngaythedg.Text = l[index].ngaylamthe.ToString();
+            if (l[index].handungthe == null) hanthedg.Text = "";
+            else hanthedg.Text = l[index].handungthe.ToString();
+        }
+        public void btn_enable(bool t)
+        {
+            groupDG.Enabled = t;
+            Them_DG.Enabled = !t;
+            Sua_DG.Enabled = !t;
+            Xoa_DG.Enabled = !t;
+            Luu_DG.Enabled = t;
+            Boqua_DG.Enabled = t;
+            Them_bool = false;
+            Sua_bool = false;
+        }
+        private void Them_DG_Click(object sender, EventArgs e)
+        {
+            btn_enable(true);
+            sothetxt.Text = "";
+            tendgtxt.Text = "";
+            ngaysinhdg.Text = "";
+            gioitinhdgtxt.Text = "";
+            emaildgtxt.Text = "";
+            diachidgtxt.Text = "";
+            socmtnddgtxt.Text = "";
+            ngaythedg.Text = "";
+            hanthedg.Text = "";
+            this.Them_bool = true;
+        }
+
+        private void Sua_DG_Click(object sender, EventArgs e)
+        {
+            btn_enable(true);
+            Sua_bool = true;
+        }
+
+        private void Xoa_DG_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có muốn xóa độc giả này?", "delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            if (result == DialogResult.Yes)
+            {
+                int id = Convert.ToInt32(sothetxt.Text);
+                var entity = new DocGiaController();
+                if (entity.delete(id))
+                    HienThi_DG();
+                else
+                    MessageBox.Show("Xóa độc giả lỗi");
+            }
+        }
+
+        private void Luu_DG_Click(object sender, EventArgs e)
+        {
+            if (Them_bool == true && Sua_bool == false)
+            {
+                var entity = new docgia();
+
+                entity.sothe =Convert.ToInt32(sothetxt.Text);
+                entity.hoten = tendgtxt.Text;
+                entity.ngaysinh = ngaysinhdg.Value;
+                entity.gioitinh = gioitinhdgtxt.Text;
+                entity.diachi = diachidgtxt.Text;
+                entity.email = emaildgtxt.Text;
+                entity.socmtnd = socmtnddgtxt.Text;
+                entity.ngaylamthe = ngaythedg.Value;
+                entity.handungthe = hanthedg.Value;
+
+                var dg = new DocGiaController();
+                if (dg.Add(entity) > 0)
+                    HienThi_DG();
+                else
+                    MessageBox.Show("Thêm độc giả không thành công");
+            }
+            if(Them_bool==false && Sua_bool==true)
+            {
+                var entity = new docgia();
+                entity.sothe = Convert.ToInt32(sothetxt.Text);
+                entity.hoten = tendgtxt.Text;
+                entity.ngaysinh = ngaysinhdg.Value;
+                entity.gioitinh = gioitinhdgtxt.Text;
+                entity.diachi = diachidgtxt.Text;
+                entity.email = emaildgtxt.Text;
+                entity.socmtnd = socmtnddgtxt.Text;
+                entity.ngaylamthe = ngaythedg.Value;
+                entity.handungthe = hanthedg.Value;
+
+                var dg = new DocGiaController();
+                if (dg.Edit(entity))
+                    HienThi_DG();
+                else
+                    MessageBox.Show("Sửa độc giả không thành công");
+            }
+            btn_enable(false);
+        }
+
+        private void Boqua_DG_Click(object sender, EventArgs e)
+        {
+            btn_enable(false);
+        }
+
+        private void Thoat_DG_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void searchtxt_KeyUp(object sender, KeyEventArgs e)
+        {
+            QuanLiThuVienHVKTQSDataContext db = new QuanLiThuVienHVKTQSDataContext();
+            int i = 1;
+            var lst = (from s in db.docgias where (s.sothe.ToString().Contains(searchtxt.Text) || s.hoten.ToString().Contains(searchtxt.Text)) select s).ToList();
+            listView_DG.Items.Clear();
+            foreach (docgia d in lst)
+            {
+                ListViewItem item = new ListViewItem();
+                item.Text = "" + i++;
+                item.SubItems.Add(d.sothe.ToString());
+                item.SubItems.Add(d.hoten.ToString());
+                item.SubItems.Add(d.ngaysinh.ToString());
+                item.SubItems.Add(d.ngaylamthe.ToString());
+
+                listView_DG.Items.Add(item);
+            }
+        }
+    }
+}
+AssemblyInfo.cs/1505724925  1000  1000  100777  1445      `
+﻿using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("QuanLyThuVienHVKTQS")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("QuanLyThuVienHVKTQS")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("90bdf944-8fbe-402f-a316-907748b2ed39")]
+
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Build and Revision Numbers
+// by using the '*' as shown below:
+// [assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+
+
+
+
