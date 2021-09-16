@@ -76,7 +76,8 @@ namespace QuanLyThuVienHVKTQS
         }
         private void Show_User()
         {
-          
+            frmUser user = new frmUser();
+            user.ShowDialog();
         }
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
@@ -176,7 +177,7 @@ namespace QuanLyThuVienHVKTQS
 
         private void quanlynguoidung_toolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            Show_User();
         }
         private void danhMucNhaXuâtBanToolStripMenuItem_Click(object sender, EventArgs e)
         {
