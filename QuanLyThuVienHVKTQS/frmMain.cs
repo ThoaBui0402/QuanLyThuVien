@@ -60,11 +60,13 @@ namespace QuanLyThuVienHVKTQS
         }
         private void Show_Sach()
         {
-            
+            frmSach s = new frmSach();
+            s.ShowDialog();
         }
         private void ShowDG()
         {
-           
+            frmDocGia dg = new frmDocGia();
+            dg.ShowDialog();
         }
         private void Show_NV()
         {
@@ -163,7 +165,7 @@ namespace QuanLyThuVienHVKTQS
 
         private void danhMucĐôcGiaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-          
+            ShowDG();
         }
 
         private void danhMucNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
@@ -186,7 +188,7 @@ namespace QuanLyThuVienHVKTQS
 
         private void quanLiSachToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+            Show_Sach();
         }
 
         private void frmMain_Load(object sender, EventArgs e)

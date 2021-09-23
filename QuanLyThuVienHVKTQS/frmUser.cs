@@ -172,5 +172,10 @@ namespace QuanLyThuVienHVKTQS
         {
 
         }
+
+        private void quanLiSachToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
