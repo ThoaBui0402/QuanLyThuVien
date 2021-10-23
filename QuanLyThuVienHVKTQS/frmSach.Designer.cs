@@ -425,6 +425,7 @@ namespace QuanLyThuVienHVKTQS
             this.btnXoaSach.TabIndex = 2;
             this.btnXoaSach.Text = "Xóa";
             this.btnXoaSach.UseVisualStyleBackColor = true;
+            this.btnXoaSach.Click += new System.EventHandler(this.btnXoaSach_Click);
             // 
             // btnSuaSach
             // 
