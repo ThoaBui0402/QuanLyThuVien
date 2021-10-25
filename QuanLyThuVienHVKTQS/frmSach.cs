@@ -139,5 +139,21 @@ namespace QuanLyThuVienHVKTQS
                 lvSach.Items.Add(item);
             }
         }
+
+        private void btnXoaSach_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có thực sự muốn xóa?", "Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            if (result == DialogResult.Yes)
+            {
+                int masach = Convert.ToInt32(txtMaSach.Text);
+                var s = new SachController();
+                if (s.Del(masach))
+                    HienThiSach();
+                else
+                {
+                    MessageBox.Show("Không xóa được!");
+                }
+            }
+        }
     }
 }
