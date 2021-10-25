@@ -118,5 +118,19 @@ namespace QuanLyThuVienHVKTQS
                 listView_DG.Items.Add(item);
             }
         }
+
+        private void Xoa_DG_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có muốn xóa độc giả này?", "delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            if (result == DialogResult.Yes)
+            {
+                int id = Convert.ToInt32(sothetxt.Text);
+                var entity = new DocGiaController();
+                if (entity.delete(id))
+                    HienThi_DG();
+                else
+                    MessageBox.Show("Xóa độc giả lỗi");
+            }
+        }
     }
 }

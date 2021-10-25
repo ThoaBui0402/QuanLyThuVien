@@ -370,6 +370,7 @@ namespace QuanLyThuVienHVKTQS
             this.Xoa_DG.TabIndex = 2;
             this.Xoa_DG.Text = "Xóa";
             this.Xoa_DG.UseVisualStyleBackColor = true;
+            this.Xoa_DG.Click += new System.EventHandler(this.Xoa_DG_Click);
             // 
             // Sua_DG
             // 
