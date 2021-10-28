@@ -340,6 +340,7 @@ namespace QuanLyThuVienHVKTQS
             this.Thoat_DG.TabIndex = 5;
             this.Thoat_DG.Text = "Thoát";
             this.Thoat_DG.UseVisualStyleBackColor = true;
+            this.Thoat_DG.Click += new System.EventHandler(this.Thoat_DG_Click);
             // 
             // Boqua_DG
             // 
@@ -360,6 +361,7 @@ namespace QuanLyThuVienHVKTQS
             this.Luu_DG.TabIndex = 3;
             this.Luu_DG.Text = "Lưu";
             this.Luu_DG.UseVisualStyleBackColor = true;
+            this.Luu_DG.Click += new System.EventHandler(this.Luu_DG_Click);
             // 
             // Xoa_DG
             // 
