@@ -155,5 +155,78 @@ namespace QuanLyThuVienHVKTQS
                 }
             }
         }
+
+        private void btnThemSach_Click(object sender, EventArgs e)
+        {
+            btn_edit(true);
+            txtMaSach.Text = "";
+            txtTenSach.Text = "";
+            txtTacGia.Text = "";
+            //txtNXB.Text = "";
+            txtNamXB.Text = "";
+            txtSoTrang.Text = "";
+            txtGiaTien.Text = "";
+            txtSoLuong.Text = "";
+            txtNgonNgu.Text = "";
+            txtTheLoai.Text = "";
+            this.Them_bool = true;
+        }
+
+        private void btnSuaSach_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLuuSach_Click(object sender, EventArgs e)
+        {
+            if (Them_bool == true && Sua_bool == false)
+            {
+                sach entity = new sach();
+                //txtMaSach.Text = "";
+                entity.tensach = txtTenSach.Text;
+                entity.tentacgia = txtTacGia.Text;
+                entity.manxb = Convert.ToInt32(cbbNXB.SelectedValue.ToString());
+                if (txtNamXB.Text.Length > 0)
+                    entity.namxb = Convert.ToInt32(txtNamXB.Text);
+                if (txtSoTrang.Text.Length > 0)
+                    entity.sotrang = Convert.ToInt32(txtSoTrang.Text);
+                if (txtGiaTien.Text.Length > 0)
+                    entity.giatien = Convert.ToDecimal(txtGiaTien.Text);
+                if (txtSoLuong.Text.Length > 0)
+                    entity.soluong = Convert.ToInt32(txtSoLuong.Text);
+                entity.ngonngu = txtNgonNgu.Text;
+                entity.theloai = txtTheLoai.Text;
+                var s = new SachController();
+                int t = s.Add(entity);
+                if (t > 0)
+                    HienThiSach();
+            }
+            if (Them_bool == false && Sua_bool == true)
+            {
+                sach entity = new sach();
+                entity.masach = Convert.ToInt32(txtMaSach.Text);
+                entity.tensach = txtTenSach.Text;
+                entity.tentacgia = txtTacGia.Text;
+                entity.manxb = Convert.ToInt32(cbbNXB.SelectedValue.ToString());
+                if (txtNamXB.Text.Length > 0)
+                    entity.namxb = Convert.ToInt32(txtNamXB.Text);
+                if (txtSoTrang.Text.Length > 0)
+                    entity.sotrang = Convert.ToInt32(txtSoTrang.Text);
+                if (txtGiaTien.Text.Length > 0)
+                    entity.giatien = Convert.ToDecimal(txtGiaTien.Text);
+                if (txtSoLuong.Text.Length > 0)
+                    entity.soluong = Convert.ToInt32(txtSoLuong.Text);
+                entity.ngonngu = txtNgonNgu.Text;
+                entity.theloai = txtTheLoai.Text;
+                var s = new SachController();
+                if (s.Edit(entity))
+                    HienThiSach();
+                else
+                {
+                    MessageBox.Show("khong sua duoc!");
+                }
+            }
+            btn_edit(false);
+        }
     }
 }

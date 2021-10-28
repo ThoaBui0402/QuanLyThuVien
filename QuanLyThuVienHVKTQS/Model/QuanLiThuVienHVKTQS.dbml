@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyThuVienHVKTQS" Class="QuanLiThuVienHVKTQSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=QuanLyThuVienHVKTQS;Integrated Security=True" SettingsObjectName="QuanLyThuVienHVKTQS.Properties.Settings" SettingsPropertyName="QuanLyThuVienHVKTQSConnectionString1" Provider="System.Data.SqlClient" />
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost\SQLEXPRESS01;Initial Catalog=QuanLyThuVienHVKTQS;Integrated Security=True" SettingsObjectName="QuanLyThuVienHVKTQS.Properties.Settings" SettingsPropertyName="QuanLyThuVienHVKTQSConnectionString2" Provider="System.Data.SqlClient" />
   <Table Name="dbo.docgia" Member="docgias">
     <Type Name="docgia">
       <Column Name="sothe" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
@@ -13,14 +13,6 @@
       <Column Name="ngaylamthe" Type="System.DateTime" DbType="Date" CanBeNull="true" />
       <Column Name="handungthe" Type="System.DateTime" DbType="Date" CanBeNull="true" />
       <Association Name="docgia_MuonSach" Member="MuonSaches" ThisKey="sothe" OtherKey="sothe" Type="MuonSach" />
-    </Type>
-  </Table>
-  <Table Name="dbo.[User]" Member="Users">
-    <Type Name="User">
-      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
-      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
-      <Column Name="Password" Type="System.String" DbType="NVarChar(32) NOT NULL" CanBeNull="false" />
-      <Column Name="IsAdmin" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
     </Type>
   </Table>
   <Table Name="dbo.MuonSach" Member="MuonSaches">
@@ -60,6 +52,14 @@
       <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
       <Column Name="sdt" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
       <Association Name="nhaxuatban_sach" Member="saches" ThisKey="manxb" OtherKey="manxb" Type="sach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="IsAdmin" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
     </Type>
   </Table>
   <Table Name="dbo.sach" Member="saches">

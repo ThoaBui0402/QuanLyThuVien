@@ -12,7 +12,7 @@ namespace QuanLyThuVienHVKTQS.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.1.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.10.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -26,8 +26,8 @@ namespace QuanLyThuVienHVKTQS.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DKYUUBY\\DKYUUBY;Initial Catalog=QuanLyThuVienHVKTQS;Integrated Securi" +
-            "ty=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-J2GH96M\\SQL15;Initial Catalog=QuanLyThuVienHVKTQS;Integrated " +
+            "Security=True")]
         public string QuanLyThuVienHVKTQSConnectionString {
             get {
                 return ((string)(this["QuanLyThuVienHVKTQSConnectionString"]));
@@ -37,11 +37,22 @@ namespace QuanLyThuVienHVKTQS.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DKYUUBY\\DKYUUBY;Initial Catalog=QuanLyThuVienHVKTQS;Integrated Securi" +
-            "ty=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-J2GH96M\\SQL15;Initial Catalog=QuanLyThuVienHVKTQS;Integrated " +
+            "Security=True")]
         public string QuanLyThuVienHVKTQSConnectionString1 {
             get {
                 return ((string)(this["QuanLyThuVienHVKTQSConnectionString1"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=localhost\\SQLEXPRESS01;Initial Catalog=QuanLyThuVienHVKTQS;Integrated" +
+            " Security=True")]
+        public string QuanLyThuVienHVKTQSConnectionString2 {
+            get {
+                return ((string)(this["QuanLyThuVienHVKTQSConnectionString2"]));
             }
         }
     }

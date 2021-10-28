@@ -132,5 +132,10 @@ namespace QuanLyThuVienHVKTQS
                     MessageBox.Show("Xóa độc giả lỗi");
             }
         }
+
+        private void Them_DG_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
