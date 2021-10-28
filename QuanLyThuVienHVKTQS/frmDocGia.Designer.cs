@@ -391,6 +391,7 @@ namespace QuanLyThuVienHVKTQS
             this.Them_DG.TabIndex = 0;
             this.Them_DG.Text = "Thêm";
             this.Them_DG.UseVisualStyleBackColor = true;
+            this.Them_DG.Click += new System.EventHandler(this.Them_DG_Click);
             // 
             // label2
             // 

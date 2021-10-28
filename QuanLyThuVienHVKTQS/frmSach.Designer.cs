@@ -415,6 +415,7 @@ namespace QuanLyThuVienHVKTQS
             this.btnLuuSach.TabIndex = 3;
             this.btnLuuSach.Text = "Lưu";
             this.btnLuuSach.UseVisualStyleBackColor = true;
+            this.btnLuuSach.Click += new System.EventHandler(this.btnLuuSach_Click);
             // 
             // btnXoaSach
             // 
@@ -436,6 +437,7 @@ namespace QuanLyThuVienHVKTQS
             this.btnSuaSach.TabIndex = 1;
             this.btnSuaSach.Text = "Sửa";
             this.btnSuaSach.UseVisualStyleBackColor = true;
+            this.btnSuaSach.Click += new System.EventHandler(this.btnSuaSach_Click);
             // 
             // btnThemSach
             // 
@@ -446,6 +448,7 @@ namespace QuanLyThuVienHVKTQS
             this.btnThemSach.TabIndex = 0;
             this.btnThemSach.Text = "Thêm";
             this.btnThemSach.UseVisualStyleBackColor = true;
+            this.btnThemSach.Click += new System.EventHandler(this.btnThemSach_Click);
             // 
             // frmSach
             // 
