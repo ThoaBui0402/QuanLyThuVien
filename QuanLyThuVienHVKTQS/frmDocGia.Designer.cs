@@ -191,9 +191,10 @@ namespace QuanLyThuVienHVKTQS
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.Honeydew;
             this.groupBox1.Controls.Add(this.label10);
             this.groupBox1.Controls.Add(this.searchtxt);
-            this.groupBox1.Location = new System.Drawing.Point(560, 5);
+            this.groupBox1.Location = new System.Drawing.Point(783, 5);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
@@ -204,7 +205,7 @@ namespace QuanLyThuVienHVKTQS
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(41, 44);
+            this.label10.Location = new System.Drawing.Point(24, 44);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(64, 17);
@@ -221,6 +222,7 @@ namespace QuanLyThuVienHVKTQS
             // 
             // listView_DG
             // 
+            this.listView_DG.BackColor = System.Drawing.Color.Honeydew;
             this.listView_DG.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.STT,
             this.columnHeader1,
@@ -233,7 +235,7 @@ namespace QuanLyThuVienHVKTQS
             this.listView_DG.Location = new System.Drawing.Point(15, 5);
             this.listView_DG.Margin = new System.Windows.Forms.Padding(4);
             this.listView_DG.Name = "listView_DG";
-            this.listView_DG.Size = new System.Drawing.Size(536, 658);
+            this.listView_DG.Size = new System.Drawing.Size(760, 813);
             this.listView_DG.TabIndex = 13;
             this.listView_DG.UseCompatibleStateImageBehavior = false;
             this.listView_DG.View = System.Windows.Forms.View.Details;
@@ -323,7 +325,7 @@ namespace QuanLyThuVienHVKTQS
             this.groupdg_btn.Controls.Add(this.Xoa_DG);
             this.groupdg_btn.Controls.Add(this.Sua_DG);
             this.groupdg_btn.Controls.Add(this.Them_DG);
-            this.groupdg_btn.Location = new System.Drawing.Point(560, 597);
+            this.groupdg_btn.Location = new System.Drawing.Point(782, 604);
             this.groupdg_btn.Margin = new System.Windows.Forms.Padding(4);
             this.groupdg_btn.Name = "groupdg_btn";
             this.groupdg_btn.Padding = new System.Windows.Forms.Padding(4);
@@ -417,6 +419,7 @@ namespace QuanLyThuVienHVKTQS
             // 
             // groupDG
             // 
+            this.groupDG.BackColor = System.Drawing.Color.Honeydew;
             this.groupDG.Controls.Add(this.hanthedg);
             this.groupDG.Controls.Add(this.ngaythedg);
             this.groupDG.Controls.Add(this.ngaysinhdg);
@@ -437,11 +440,11 @@ namespace QuanLyThuVienHVKTQS
             this.groupDG.Controls.Add(this.label3);
             this.groupDG.Controls.Add(this.label2);
             this.groupDG.Controls.Add(this.label1);
-            this.groupDG.Location = new System.Drawing.Point(560, 107);
+            this.groupDG.Location = new System.Drawing.Point(783, 108);
             this.groupDG.Margin = new System.Windows.Forms.Padding(4);
             this.groupDG.Name = "groupDG";
             this.groupDG.Padding = new System.Windows.Forms.Padding(4);
-            this.groupDG.Size = new System.Drawing.Size(541, 482);
+            this.groupDG.Size = new System.Drawing.Size(541, 710);
             this.groupDG.TabIndex = 11;
             this.groupDG.TabStop = false;
             // 
@@ -449,7 +452,7 @@ namespace QuanLyThuVienHVKTQS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1116, 668);
+            this.ClientSize = new System.Drawing.Size(1347, 842);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.listView_DG);
             this.Controls.Add(this.groupdg_btn);

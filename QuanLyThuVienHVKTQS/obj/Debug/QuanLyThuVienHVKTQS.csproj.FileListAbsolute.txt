@@ -1065,3 +1065,5 @@ D:\Ky1nam4\TTN\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.c
 D:\Ky1nam4\TTN\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
 D:\Ky1nam4\TTN\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
 D:\Ky1nam4\TTN\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+D:\Ky1nam4\TTN\QuanLyThuVien\QuanLyThuVienHVKTQS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Ky1nam4\TTN\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.DangNhap.resources
