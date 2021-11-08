@@ -105,5 +105,10 @@ namespace QuanLyThuVienHVKTQS
                 MessageBox.Show("Đăng ký không thành công ");
             }
         }
-    }
+
+          private void pictureBox1_Click(object sender, EventArgs e)
+          {
+
+          }
+     }
 }
