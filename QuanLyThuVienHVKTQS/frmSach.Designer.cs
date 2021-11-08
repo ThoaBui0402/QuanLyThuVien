@@ -46,6 +46,7 @@ namespace QuanLyThuVienHVKTQS
                this.label6 = new System.Windows.Forms.Label();
                this.label10 = new System.Windows.Forms.Label();
                this.groupBox1 = new System.Windows.Forms.GroupBox();
+               this.pictureBox1 = new System.Windows.Forms.PictureBox();
                this.search_sachtxt = new System.Windows.Forms.TextBox();
                this.grpEdit = new System.Windows.Forms.GroupBox();
                this.label5 = new System.Windows.Forms.Label();
@@ -61,7 +62,6 @@ namespace QuanLyThuVienHVKTQS
                this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
                this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
                this.groupsach_btn = new System.Windows.Forms.GroupBox();
-               this.pictureBox1 = new System.Windows.Forms.PictureBox();
                this.btnThoat = new System.Windows.Forms.Button();
                this.btnBoQua = new System.Windows.Forms.Button();
                this.btnLuuSach = new System.Windows.Forms.Button();
@@ -69,9 +69,9 @@ namespace QuanLyThuVienHVKTQS
                this.btnSuaSach = new System.Windows.Forms.Button();
                this.btnThemSach = new System.Windows.Forms.Button();
                this.groupBox1.SuspendLayout();
+               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
                this.grpEdit.SuspendLayout();
                this.groupsach_btn.SuspendLayout();
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
                this.SuspendLayout();
                // 
                // cbbNXB
@@ -235,6 +235,18 @@ namespace QuanLyThuVienHVKTQS
                this.groupBox1.TabIndex = 7;
                this.groupBox1.TabStop = false;
                this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+               // 
+               // pictureBox1
+               // 
+               this.pictureBox1.BackColor = System.Drawing.Color.Cyan;
+               this.pictureBox1.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.search;
+               this.pictureBox1.Location = new System.Drawing.Point(131, 32);
+               this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+               this.pictureBox1.Name = "pictureBox1";
+               this.pictureBox1.Size = new System.Drawing.Size(22, 22);
+               this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+               this.pictureBox1.TabIndex = 28;
+               this.pictureBox1.TabStop = false;
                // 
                // search_sachtxt
                // 
@@ -406,18 +418,6 @@ namespace QuanLyThuVienHVKTQS
                this.groupsach_btn.TabStop = false;
                this.groupsach_btn.Enter += new System.EventHandler(this.groupsach_btn_Enter);
                // 
-               // pictureBox1
-               // 
-               this.pictureBox1.BackColor = System.Drawing.Color.Cyan;
-               this.pictureBox1.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.search;
-               this.pictureBox1.Location = new System.Drawing.Point(131, 32);
-               this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-               this.pictureBox1.Name = "pictureBox1";
-               this.pictureBox1.Size = new System.Drawing.Size(22, 22);
-               this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-               this.pictureBox1.TabIndex = 28;
-               this.pictureBox1.TabStop = false;
-               // 
                // btnThoat
                // 
                this.btnThoat.BackColor = System.Drawing.Color.AliceBlue;
@@ -504,6 +504,7 @@ namespace QuanLyThuVienHVKTQS
                // 
                this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
                this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+               this.BackColor = System.Drawing.Color.DarkTurquoise;
                this.ClientSize = new System.Drawing.Size(1135, 764);
                this.Controls.Add(this.groupBox1);
                this.Controls.Add(this.grpEdit);
@@ -513,10 +514,10 @@ namespace QuanLyThuVienHVKTQS
                this.Text = "frmSach";
                this.groupBox1.ResumeLayout(false);
                this.groupBox1.PerformLayout();
+               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                this.grpEdit.ResumeLayout(false);
                this.grpEdit.PerformLayout();
                this.groupsach_btn.ResumeLayout(false);
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                this.ResumeLayout(false);
 
         }

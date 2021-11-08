@@ -235,7 +235,7 @@
                // 
                // groupuser
                // 
-               this.groupuser.BackColor = System.Drawing.SystemColors.ControlLightLight;
+               this.groupuser.BackColor = System.Drawing.Color.DarkTurquoise;
                this.groupuser.Controls.Add(this.IDtxt);
                this.groupuser.Controls.Add(this.label4);
                this.groupuser.Controls.Add(this.isadmincbx);
@@ -244,11 +244,11 @@
                this.groupuser.Controls.Add(this.label3);
                this.groupuser.Controls.Add(this.label2);
                this.groupuser.Controls.Add(this.label1);
-               this.groupuser.Location = new System.Drawing.Point(566, 142);
+               this.groupuser.Location = new System.Drawing.Point(566, 127);
                this.groupuser.Margin = new System.Windows.Forms.Padding(4);
                this.groupuser.Name = "groupuser";
                this.groupuser.Padding = new System.Windows.Forms.Padding(4);
-               this.groupuser.Size = new System.Drawing.Size(519, 407);
+               this.groupuser.Size = new System.Drawing.Size(519, 422);
                this.groupuser.TabIndex = 3;
                this.groupuser.TabStop = false;
                // 
@@ -345,14 +345,14 @@
                // 
                // groupBox1
                // 
-               this.groupBox1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+               this.groupBox1.BackColor = System.Drawing.Color.DarkTurquoise;
                this.groupBox1.Controls.Add(this.search_usertxt);
                this.groupBox1.Controls.Add(this.label5);
                this.groupBox1.Location = new System.Drawing.Point(566, 48);
                this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox1.Name = "groupBox1";
                this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-               this.groupBox1.Size = new System.Drawing.Size(519, 98);
+               this.groupBox1.Size = new System.Drawing.Size(519, 86);
                this.groupBox1.TabIndex = 5;
                this.groupBox1.TabStop = false;
                // 
@@ -367,7 +367,7 @@
                // 
                // groupsach_btn
                // 
-               this.groupsach_btn.BackColor = System.Drawing.SystemColors.ControlLightLight;
+               this.groupsach_btn.BackColor = System.Drawing.Color.DarkTurquoise;
                this.groupsach_btn.Controls.Add(this.thoat_userbtn);
                this.groupsach_btn.Controls.Add(this.boqua_userbtn);
                this.groupsach_btn.Controls.Add(this.luu_userbtn);
@@ -464,7 +464,7 @@
                // 
                this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
                this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-               this.BackgroundImage = global::QuanLyThuVienHVKTQS.Properties.Resources.MTA_Beauty_Comestic;
+               this.BackColor = System.Drawing.Color.DarkTurquoise;
                this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
                this.ClientSize = new System.Drawing.Size(1135, 553);
                this.Controls.Add(this.groupsach_btn);
