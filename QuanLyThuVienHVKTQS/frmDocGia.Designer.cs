@@ -34,11 +34,13 @@
                this.Luu_DG = new System.Windows.Forms.Button();
                this.Xoa_DG = new System.Windows.Forms.Button();
                this.Sua_DG = new System.Windows.Forms.Button();
+               this.Them_DG = new System.Windows.Forms.Button();
                this.groupDG = new System.Windows.Forms.GroupBox();
                this.hanthedg = new System.Windows.Forms.DateTimePicker();
                this.ngaythedg = new System.Windows.Forms.DateTimePicker();
                this.ngaysinhdg = new System.Windows.Forms.DateTimePicker();
                this.button7 = new System.Windows.Forms.Button();
+               this.pictureBox1 = new System.Windows.Forms.PictureBox();
                this.emaildgtxt = new System.Windows.Forms.TextBox();
                this.label6 = new System.Windows.Forms.Label();
                this.gioitinhdgtxt = new System.Windows.Forms.TextBox();
@@ -63,12 +65,10 @@
                this.searchtxt = new System.Windows.Forms.TextBox();
                this.groupBox1 = new System.Windows.Forms.GroupBox();
                this.label10 = new System.Windows.Forms.Label();
-               this.Them_DG = new System.Windows.Forms.Button();
-               this.pictureBox1 = new System.Windows.Forms.PictureBox();
                this.groupdg_btn.SuspendLayout();
                this.groupDG.SuspendLayout();
-               this.groupBox1.SuspendLayout();
                ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+               this.groupBox1.SuspendLayout();
                this.SuspendLayout();
                // 
                // groupdg_btn
@@ -81,9 +81,9 @@
                this.groupdg_btn.Controls.Add(this.Sua_DG);
                this.groupdg_btn.Controls.Add(this.Them_DG);
                this.groupdg_btn.Location = new System.Drawing.Point(682, 605);
-               this.groupdg_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupdg_btn.Margin = new System.Windows.Forms.Padding(4);
                this.groupdg_btn.Name = "groupdg_btn";
-               this.groupdg_btn.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupdg_btn.Padding = new System.Windows.Forms.Padding(4);
                this.groupdg_btn.Size = new System.Drawing.Size(541, 176);
                this.groupdg_btn.TabIndex = 5;
                this.groupdg_btn.TabStop = false;
@@ -95,7 +95,7 @@
                this.Thoat_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.cancel;
                this.Thoat_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Thoat_DG.Location = new System.Drawing.Point(395, 109);
-               this.Thoat_DG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Thoat_DG.Margin = new System.Windows.Forms.Padding(4);
                this.Thoat_DG.Name = "Thoat_DG";
                this.Thoat_DG.Size = new System.Drawing.Size(108, 55);
                this.Thoat_DG.TabIndex = 5;
@@ -110,7 +110,7 @@
                this.Boqua_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.next;
                this.Boqua_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Boqua_DG.Location = new System.Drawing.Point(221, 108);
-               this.Boqua_DG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Boqua_DG.Margin = new System.Windows.Forms.Padding(4);
                this.Boqua_DG.Name = "Boqua_DG";
                this.Boqua_DG.Size = new System.Drawing.Size(108, 55);
                this.Boqua_DG.TabIndex = 4;
@@ -125,7 +125,7 @@
                this.Luu_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.check;
                this.Luu_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Luu_DG.Location = new System.Drawing.Point(37, 108);
-               this.Luu_DG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Luu_DG.Margin = new System.Windows.Forms.Padding(4);
                this.Luu_DG.Name = "Luu_DG";
                this.Luu_DG.Size = new System.Drawing.Size(108, 55);
                this.Luu_DG.TabIndex = 3;
@@ -140,7 +140,7 @@
                this.Xoa_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.delete1;
                this.Xoa_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Xoa_DG.Location = new System.Drawing.Point(395, 23);
-               this.Xoa_DG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Xoa_DG.Margin = new System.Windows.Forms.Padding(4);
                this.Xoa_DG.Name = "Xoa_DG";
                this.Xoa_DG.Size = new System.Drawing.Size(108, 55);
                this.Xoa_DG.TabIndex = 2;
@@ -155,13 +155,28 @@
                this.Sua_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.repair;
                this.Sua_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Sua_DG.Location = new System.Drawing.Point(224, 23);
-               this.Sua_DG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Sua_DG.Margin = new System.Windows.Forms.Padding(4);
                this.Sua_DG.Name = "Sua_DG";
                this.Sua_DG.Size = new System.Drawing.Size(108, 55);
                this.Sua_DG.TabIndex = 1;
                this.Sua_DG.Text = "     Sửa";
                this.Sua_DG.UseVisualStyleBackColor = false;
                this.Sua_DG.Click += new System.EventHandler(this.Sua_DG_Click);
+               // 
+               // Them_DG
+               // 
+               this.Them_DG.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+               this.Them_DG.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+               this.Them_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.add1;
+               this.Them_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+               this.Them_DG.Location = new System.Drawing.Point(40, 23);
+               this.Them_DG.Margin = new System.Windows.Forms.Padding(4);
+               this.Them_DG.Name = "Them_DG";
+               this.Them_DG.Size = new System.Drawing.Size(108, 55);
+               this.Them_DG.TabIndex = 0;
+               this.Them_DG.Text = "      Thêm";
+               this.Them_DG.UseVisualStyleBackColor = false;
+               this.Them_DG.Click += new System.EventHandler(this.Them_DG_Click);
                // 
                // groupDG
                // 
@@ -188,9 +203,9 @@
                this.groupDG.Controls.Add(this.label1);
                this.groupDG.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.groupDG.Location = new System.Drawing.Point(682, 115);
-               this.groupDG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupDG.Margin = new System.Windows.Forms.Padding(4);
                this.groupDG.Name = "groupDG";
-               this.groupDG.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupDG.Padding = new System.Windows.Forms.Padding(4);
                this.groupDG.Size = new System.Drawing.Size(541, 482);
                this.groupDG.TabIndex = 12;
                this.groupDG.TabStop = false;
@@ -201,7 +216,7 @@
                this.hanthedg.CustomFormat = "       dd/MM/yyyy";
                this.hanthedg.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
                this.hanthedg.Location = new System.Drawing.Point(124, 404);
-               this.hanthedg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.hanthedg.Margin = new System.Windows.Forms.Padding(4);
                this.hanthedg.Name = "hanthedg";
                this.hanthedg.Size = new System.Drawing.Size(231, 24);
                this.hanthedg.TabIndex = 31;
@@ -211,7 +226,7 @@
                this.ngaythedg.CustomFormat = "      dd/MM/yyyy";
                this.ngaythedg.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
                this.ngaythedg.Location = new System.Drawing.Point(124, 356);
-               this.ngaythedg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.ngaythedg.Margin = new System.Windows.Forms.Padding(4);
                this.ngaythedg.Name = "ngaythedg";
                this.ngaythedg.Size = new System.Drawing.Size(231, 24);
                this.ngaythedg.TabIndex = 30;
@@ -221,7 +236,7 @@
                this.ngaysinhdg.CustomFormat = "      dd/MM/yyyy";
                this.ngaysinhdg.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
                this.ngaysinhdg.Location = new System.Drawing.Point(124, 126);
-               this.ngaysinhdg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.ngaysinhdg.Margin = new System.Windows.Forms.Padding(4);
                this.ngaysinhdg.Name = "ngaysinhdg";
                this.ngaysinhdg.Size = new System.Drawing.Size(231, 24);
                this.ngaysinhdg.TabIndex = 29;
@@ -230,17 +245,27 @@
                // 
                this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.button7.Location = new System.Drawing.Point(405, 175);
-               this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.button7.Margin = new System.Windows.Forms.Padding(4);
                this.button7.Name = "button7";
                this.button7.Size = new System.Drawing.Size(100, 28);
                this.button7.TabIndex = 28;
                this.button7.Text = "Ảnh mới";
                this.button7.UseVisualStyleBackColor = true;
                // 
+               // pictureBox1
+               // 
+               this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+               this.pictureBox1.Location = new System.Drawing.Point(385, 21);
+               this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+               this.pictureBox1.Name = "pictureBox1";
+               this.pictureBox1.Size = new System.Drawing.Size(132, 143);
+               this.pictureBox1.TabIndex = 27;
+               this.pictureBox1.TabStop = false;
+               // 
                // emaildgtxt
                // 
                this.emaildgtxt.Location = new System.Drawing.Point(124, 217);
-               this.emaildgtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.emaildgtxt.Margin = new System.Windows.Forms.Padding(4);
                this.emaildgtxt.Name = "emaildgtxt";
                this.emaildgtxt.Size = new System.Drawing.Size(231, 24);
                this.emaildgtxt.TabIndex = 26;
@@ -259,7 +284,7 @@
                // gioitinhdgtxt
                // 
                this.gioitinhdgtxt.Location = new System.Drawing.Point(124, 171);
-               this.gioitinhdgtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.gioitinhdgtxt.Margin = new System.Windows.Forms.Padding(4);
                this.gioitinhdgtxt.Name = "gioitinhdgtxt";
                this.gioitinhdgtxt.Size = new System.Drawing.Size(69, 24);
                this.gioitinhdgtxt.TabIndex = 21;
@@ -267,7 +292,7 @@
                // socmtnddgtxt
                // 
                this.socmtnddgtxt.Location = new System.Drawing.Point(124, 313);
-               this.socmtnddgtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.socmtnddgtxt.Margin = new System.Windows.Forms.Padding(4);
                this.socmtnddgtxt.Name = "socmtnddgtxt";
                this.socmtnddgtxt.Size = new System.Drawing.Size(231, 24);
                this.socmtnddgtxt.TabIndex = 18;
@@ -275,7 +300,7 @@
                // diachidgtxt
                // 
                this.diachidgtxt.Location = new System.Drawing.Point(124, 265);
-               this.diachidgtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.diachidgtxt.Margin = new System.Windows.Forms.Padding(4);
                this.diachidgtxt.Name = "diachidgtxt";
                this.diachidgtxt.Size = new System.Drawing.Size(395, 24);
                this.diachidgtxt.TabIndex = 14;
@@ -284,7 +309,7 @@
                // tendgtxt
                // 
                this.tendgtxt.Location = new System.Drawing.Point(124, 78);
-               this.tendgtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.tendgtxt.Margin = new System.Windows.Forms.Padding(4);
                this.tendgtxt.Name = "tendgtxt";
                this.tendgtxt.Size = new System.Drawing.Size(231, 24);
                this.tendgtxt.TabIndex = 13;
@@ -292,7 +317,7 @@
                // sothetxt
                // 
                this.sothetxt.Location = new System.Drawing.Point(124, 30);
-               this.sothetxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.sothetxt.Margin = new System.Windows.Forms.Padding(4);
                this.sothetxt.Name = "sothetxt";
                this.sothetxt.Size = new System.Drawing.Size(231, 24);
                this.sothetxt.TabIndex = 12;
@@ -399,7 +424,7 @@
                this.listView_DG.GridLines = true;
                this.listView_DG.HideSelection = false;
                this.listView_DG.Location = new System.Drawing.Point(15, 5);
-               this.listView_DG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.listView_DG.Margin = new System.Windows.Forms.Padding(4);
                this.listView_DG.Name = "listView_DG";
                this.listView_DG.Size = new System.Drawing.Size(659, 776);
                this.listView_DG.TabIndex = 7;
@@ -439,7 +464,7 @@
                // searchtxt
                // 
                this.searchtxt.Location = new System.Drawing.Point(124, 41);
-               this.searchtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.searchtxt.Margin = new System.Windows.Forms.Padding(4);
                this.searchtxt.Name = "searchtxt";
                this.searchtxt.Size = new System.Drawing.Size(215, 22);
                this.searchtxt.TabIndex = 8;
@@ -452,9 +477,9 @@
                this.groupBox1.Controls.Add(this.label10);
                this.groupBox1.Controls.Add(this.searchtxt);
                this.groupBox1.Location = new System.Drawing.Point(682, 13);
-               this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox1.Name = "groupBox1";
-               this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox1.Size = new System.Drawing.Size(540, 95);
                this.groupBox1.TabIndex = 10;
                this.groupBox1.TabStop = false;
@@ -470,31 +495,6 @@
                this.label10.TabIndex = 9;
                this.label10.Text = "Tìm kiếm";
                // 
-               // Them_DG
-               // 
-               this.Them_DG.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-               this.Them_DG.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-               this.Them_DG.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.add1;
-               this.Them_DG.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-               this.Them_DG.Location = new System.Drawing.Point(40, 23);
-               this.Them_DG.Margin = new System.Windows.Forms.Padding(4);
-               this.Them_DG.Name = "Them_DG";
-               this.Them_DG.Size = new System.Drawing.Size(108, 55);
-               this.Them_DG.TabIndex = 0;
-               this.Them_DG.Text = "      Thêm";
-               this.Them_DG.UseVisualStyleBackColor = false;
-               this.Them_DG.Click += new System.EventHandler(this.Them_DG_Click);
-               // 
-               // pictureBox1
-               // 
-               this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-               this.pictureBox1.Location = new System.Drawing.Point(385, 21);
-               this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-               this.pictureBox1.Name = "pictureBox1";
-               this.pictureBox1.Size = new System.Drawing.Size(132, 143);
-               this.pictureBox1.TabIndex = 27;
-               this.pictureBox1.TabStop = false;
-               // 
                // frmDocGia
                // 
                this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -505,16 +505,16 @@
                this.Controls.Add(this.listView_DG);
                this.Controls.Add(this.groupdg_btn);
                this.Controls.Add(this.groupDG);
-               this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Margin = new System.Windows.Forms.Padding(4);
                this.Name = "frmDocGia";
-               this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+               this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
                this.Text = "frmDocGia";
                this.groupdg_btn.ResumeLayout(false);
                this.groupDG.ResumeLayout(false);
                this.groupDG.PerformLayout();
+               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                this.groupBox1.ResumeLayout(false);
                this.groupBox1.PerformLayout();
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                this.ResumeLayout(false);
 
         }

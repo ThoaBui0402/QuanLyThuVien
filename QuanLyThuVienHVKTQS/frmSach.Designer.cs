@@ -381,13 +381,13 @@ namespace QuanLyThuVienHVKTQS
                // 
                this.columnHeader3.Text = "Tên sách";
                this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader3.Width = 134;
+               this.columnHeader3.Width = 148;
                // 
                // columnHeader4
                // 
                this.columnHeader4.Text = "Thể loại";
                this.columnHeader4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader4.Width = 76;
+               this.columnHeader4.Width = 99;
                // 
                // columnHeader5
                // 
@@ -399,7 +399,7 @@ namespace QuanLyThuVienHVKTQS
                // 
                this.columnHeader6.Text = "Sô lượng";
                this.columnHeader6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader6.Width = 76;
+               this.columnHeader6.Width = 94;
                // 
                // groupsach_btn
                // 
@@ -511,6 +511,7 @@ namespace QuanLyThuVienHVKTQS
                this.Controls.Add(this.lvSach);
                this.Controls.Add(this.groupsach_btn);
                this.Name = "frmSach";
+               this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
                this.Text = "frmSach";
                this.groupBox1.ResumeLayout(false);
                this.groupBox1.PerformLayout();
