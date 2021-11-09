@@ -156,25 +156,25 @@ namespace QuanLyThuVienHVKTQS
             }
         }
 
-        private void btnThemSach_Click(object sender, EventArgs e)
-        {
-            btn_edit(true);
-            txtMaSach.Text = "";
-            txtTenSach.Text = "";
-            txtTacGia.Text = "";
-            //txtNXB.Text = "";
-            txtNamXB.Text = "";
-            txtSoTrang.Text = "";
-            txtGiaTien.Text = "";
-            txtSoLuong.Text = "";
-            txtNgonNgu.Text = "";
-            txtTheLoai.Text = "";
-            this.Them_bool = true;
-        }
+          private void btnThemSach_Click(object sender, EventArgs e)
+          {
+               btn_edit(true);
+               txtMaSach.Text = "";
+               txtTenSach.Text = "";
+               txtTacGia.Text = "";
+               //txtNXB.Text = "";
+               txtNamXB.Text = "";
+               txtSoTrang.Text = "";
+               txtGiaTien.Text = "";
+               txtSoLuong.Text = "";
+               txtNgonNgu.Text = "";
+               txtTheLoai.Text = "";
+               this.Them_bool = true;
+          }
 
-        
 
-        private void btnLuuSach_Click(object sender, EventArgs e)
+
+          private void btnLuuSach_Click(object sender, EventArgs e)
         {
             if (Them_bool == true && Sua_bool == false)
             {
