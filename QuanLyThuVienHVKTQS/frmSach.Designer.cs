@@ -484,7 +484,6 @@ namespace QuanLyThuVienHVKTQS
                this.btnSuaSach.TabIndex = 1;
                this.btnSuaSach.Text = "     Sửa";
                this.btnSuaSach.UseVisualStyleBackColor = false;
-               this.btnSuaSach.Click += new System.EventHandler(this.btnSuaSach_Click);
                // 
                // btnThemSach
                // 

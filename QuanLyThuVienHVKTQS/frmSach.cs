@@ -174,8 +174,8 @@ namespace QuanLyThuVienHVKTQS
 
         private void btnSuaSach_Click(object sender, EventArgs e)
         {
-
-        }
+             
+          }
 
         private void btnLuuSach_Click(object sender, EventArgs e)
         {
@@ -228,5 +228,9 @@ namespace QuanLyThuVienHVKTQS
             }
             btn_edit(false);
         }
-    }
+
+         
+
+         
+     }
 }

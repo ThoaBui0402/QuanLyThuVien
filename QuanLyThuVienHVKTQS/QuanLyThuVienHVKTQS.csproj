@@ -99,7 +99,7 @@
     <Compile Include="frmSach.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmSach.Designer.cs">
+    <Compile Include="frmSach.designer.cs">
       <DependentUpon>frmSach.cs</DependentUpon>
     </Compile>
     <Compile Include="frmUser.cs">
