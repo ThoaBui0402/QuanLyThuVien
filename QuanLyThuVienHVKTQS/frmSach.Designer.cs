@@ -240,7 +240,7 @@ namespace QuanLyThuVienHVKTQS
                // 
                this.pictureBox1.BackColor = System.Drawing.Color.Cyan;
                this.pictureBox1.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.search;
-               this.pictureBox1.Location = new System.Drawing.Point(131, 32);
+               this.pictureBox1.Location = new System.Drawing.Point(393, 32);
                this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
                this.pictureBox1.Name = "pictureBox1";
                this.pictureBox1.Size = new System.Drawing.Size(22, 22);

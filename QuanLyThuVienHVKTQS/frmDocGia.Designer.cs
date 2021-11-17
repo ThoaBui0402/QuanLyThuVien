@@ -466,7 +466,7 @@
                this.searchtxt.Location = new System.Drawing.Point(124, 41);
                this.searchtxt.Margin = new System.Windows.Forms.Padding(4);
                this.searchtxt.Name = "searchtxt";
-               this.searchtxt.Size = new System.Drawing.Size(215, 22);
+               this.searchtxt.Size = new System.Drawing.Size(296, 22);
                this.searchtxt.TabIndex = 8;
                this.searchtxt.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
                this.searchtxt.KeyUp += new System.Windows.Forms.KeyEventHandler(this.searchtxt_KeyUp);
