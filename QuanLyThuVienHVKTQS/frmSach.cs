@@ -226,8 +226,15 @@ namespace QuanLyThuVienHVKTQS
             btn_edit(false);
         }
 
-         
+        private void btnSuaSach_Click(object sender, EventArgs e)
+        {
+            btn_edit(true);
+            this.Sua_bool = true;
+        }
 
-         
-     }
+        private void btnBoQua_Click(object sender, EventArgs e)
+        {
+            btn_edit(false);
+        }
+    }
 }
