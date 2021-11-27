@@ -74,7 +74,8 @@ namespace QuanLyThuVienHVKTQS
         }
         private void Show_MS()
         {
-          
+            TTMuonTra ms = new TTMuonTra();
+            ms.ShowDialog();
         }
         private void Show_User()
         {
@@ -104,7 +105,7 @@ namespace QuanLyThuVienHVKTQS
         }
         private void quảnLýMượntrảSáchToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+            Show_MS();
         }
 
         private void quanlynguoidung_toolStripMenuItem_Click(object sender, EventArgs e)
