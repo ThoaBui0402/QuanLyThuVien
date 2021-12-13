@@ -195,7 +195,7 @@
                this.listView_User.GridLines = true;
                this.listView_User.HideSelection = false;
                this.listView_User.Location = new System.Drawing.Point(16, 48);
-               this.listView_User.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.listView_User.Margin = new System.Windows.Forms.Padding(4);
                this.listView_User.Name = "listView_User";
                this.listView_User.Size = new System.Drawing.Size(469, 428);
                this.listView_User.TabIndex = 2;
@@ -206,7 +206,7 @@
                // columnHeader1
                // 
                this.columnHeader1.Text = "STT";
-               this.columnHeader1.Width = 33;
+               this.columnHeader1.Width = 44;
                // 
                // columnHeader2
                // 
@@ -218,17 +218,19 @@
                // 
                this.columnHeader3.Text = "UserName";
                this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader3.Width = 73;
+               this.columnHeader3.Width = 98;
                // 
                // columnHeader4
                // 
                this.columnHeader4.Text = "Password";
                this.columnHeader4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+               this.columnHeader4.Width = 92;
                // 
                // columnHeader5
                // 
                this.columnHeader5.Text = "IsAdmin";
                this.columnHeader5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+               this.columnHeader5.Width = 87;
                // 
                // groupuser
                // 
@@ -241,9 +243,9 @@
                this.groupuser.Controls.Add(this.label2);
                this.groupuser.Controls.Add(this.label1);
                this.groupuser.Location = new System.Drawing.Point(493, 106);
-               this.groupuser.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupuser.Margin = new System.Windows.Forms.Padding(4);
                this.groupuser.Name = "groupuser";
-               this.groupuser.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupuser.Padding = new System.Windows.Forms.Padding(4);
                this.groupuser.Size = new System.Drawing.Size(392, 194);
                this.groupuser.TabIndex = 3;
                this.groupuser.TabStop = false;
@@ -251,7 +253,7 @@
                // IDtxt
                // 
                this.IDtxt.Location = new System.Drawing.Point(131, 23);
-               this.IDtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.IDtxt.Margin = new System.Windows.Forms.Padding(4);
                this.IDtxt.Name = "IDtxt";
                this.IDtxt.Size = new System.Drawing.Size(155, 22);
                this.IDtxt.TabIndex = 7;
@@ -273,7 +275,7 @@
             "True",
             "False"});
                this.isadmincbx.Location = new System.Drawing.Point(131, 154);
-               this.isadmincbx.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.isadmincbx.Margin = new System.Windows.Forms.Padding(4);
                this.isadmincbx.Name = "isadmincbx";
                this.isadmincbx.Size = new System.Drawing.Size(95, 24);
                this.isadmincbx.TabIndex = 5;
@@ -281,7 +283,7 @@
                // passwordtxt
                // 
                this.passwordtxt.Location = new System.Drawing.Point(131, 107);
-               this.passwordtxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.passwordtxt.Margin = new System.Windows.Forms.Padding(4);
                this.passwordtxt.Name = "passwordtxt";
                this.passwordtxt.Size = new System.Drawing.Size(155, 22);
                this.passwordtxt.TabIndex = 4;
@@ -289,7 +291,7 @@
                // usernametxt
                // 
                this.usernametxt.Location = new System.Drawing.Point(131, 63);
-               this.usernametxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.usernametxt.Margin = new System.Windows.Forms.Padding(4);
                this.usernametxt.Name = "usernametxt";
                this.usernametxt.Size = new System.Drawing.Size(155, 22);
                this.usernametxt.TabIndex = 3;
@@ -333,9 +335,9 @@
                this.groupBox2.Controls.Add(this.Sua_userbtn);
                this.groupBox2.Controls.Add(this.Them_userbtn);
                this.groupBox2.Location = new System.Drawing.Point(493, 308);
-               this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox2.Name = "groupBox2";
-               this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox2.Size = new System.Drawing.Size(392, 168);
                this.groupBox2.TabIndex = 4;
                this.groupBox2.TabStop = false;
@@ -346,7 +348,7 @@
                this.thoat_userbtn.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.cancel;
                this.thoat_userbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.thoat_userbtn.Location = new System.Drawing.Point(273, 104);
-               this.thoat_userbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.thoat_userbtn.Margin = new System.Windows.Forms.Padding(4);
                this.thoat_userbtn.Name = "thoat_userbtn";
                this.thoat_userbtn.Size = new System.Drawing.Size(88, 49);
                this.thoat_userbtn.TabIndex = 5;
@@ -360,7 +362,7 @@
                this.boqua_userbtn.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.next;
                this.boqua_userbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.boqua_userbtn.Location = new System.Drawing.Point(138, 104);
-               this.boqua_userbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.boqua_userbtn.Margin = new System.Windows.Forms.Padding(4);
                this.boqua_userbtn.Name = "boqua_userbtn";
                this.boqua_userbtn.Size = new System.Drawing.Size(95, 49);
                this.boqua_userbtn.TabIndex = 4;
@@ -374,7 +376,7 @@
                this.luu_userbtn.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.check;
                this.luu_userbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.luu_userbtn.Location = new System.Drawing.Point(16, 104);
-               this.luu_userbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.luu_userbtn.Margin = new System.Windows.Forms.Padding(4);
                this.luu_userbtn.Name = "luu_userbtn";
                this.luu_userbtn.Size = new System.Drawing.Size(88, 49);
                this.luu_userbtn.TabIndex = 3;
@@ -388,7 +390,7 @@
                this.xoa_userbtn.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.delete1;
                this.xoa_userbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.xoa_userbtn.Location = new System.Drawing.Point(263, 23);
-               this.xoa_userbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.xoa_userbtn.Margin = new System.Windows.Forms.Padding(4);
                this.xoa_userbtn.Name = "xoa_userbtn";
                this.xoa_userbtn.Size = new System.Drawing.Size(88, 49);
                this.xoa_userbtn.TabIndex = 2;
@@ -402,7 +404,7 @@
                this.Sua_userbtn.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.repair;
                this.Sua_userbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Sua_userbtn.Location = new System.Drawing.Point(138, 23);
-               this.Sua_userbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Sua_userbtn.Margin = new System.Windows.Forms.Padding(4);
                this.Sua_userbtn.Name = "Sua_userbtn";
                this.Sua_userbtn.Size = new System.Drawing.Size(88, 49);
                this.Sua_userbtn.TabIndex = 1;
@@ -416,7 +418,7 @@
                this.Them_userbtn.Image = global::QuanLyThuVienHVKTQS.Properties.Resources.add1;
                this.Them_userbtn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
                this.Them_userbtn.Location = new System.Drawing.Point(16, 23);
-               this.Them_userbtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Them_userbtn.Margin = new System.Windows.Forms.Padding(4);
                this.Them_userbtn.Name = "Them_userbtn";
                this.Them_userbtn.Size = new System.Drawing.Size(88, 49);
                this.Them_userbtn.TabIndex = 0;
@@ -439,9 +441,9 @@
                this.groupBox1.Controls.Add(this.search_usertxt);
                this.groupBox1.Controls.Add(this.label5);
                this.groupBox1.Location = new System.Drawing.Point(493, 33);
-               this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
                this.groupBox1.Name = "groupBox1";
-               this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
                this.groupBox1.Size = new System.Drawing.Size(392, 65);
                this.groupBox1.TabIndex = 5;
                this.groupBox1.TabStop = false;
@@ -449,7 +451,7 @@
                // search_usertxt
                // 
                this.search_usertxt.Location = new System.Drawing.Point(131, 27);
-               this.search_usertxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.search_usertxt.Margin = new System.Windows.Forms.Padding(4);
                this.search_usertxt.Name = "search_usertxt";
                this.search_usertxt.Size = new System.Drawing.Size(155, 22);
                this.search_usertxt.TabIndex = 6;
@@ -466,9 +468,9 @@
                this.Controls.Add(this.groupuser);
                this.Controls.Add(this.listView_User);
                this.Controls.Add(this.menuStrip1);
-               this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.Margin = new System.Windows.Forms.Padding(4);
                this.Name = "frmUser";
-               this.Text = "frmUser";
+               this.Text = "Form User";
                this.Load += new System.EventHandler(this.frmUser_Load);
                this.menuStrip1.ResumeLayout(false);
                this.menuStrip1.PerformLayout();

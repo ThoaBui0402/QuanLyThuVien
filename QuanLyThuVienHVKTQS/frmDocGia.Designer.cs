@@ -508,7 +508,7 @@
                this.Margin = new System.Windows.Forms.Padding(4);
                this.Name = "frmDocGia";
                this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-               this.Text = "frmDocGia";
+               this.Text = "Form Độc giả";
                this.groupdg_btn.ResumeLayout(false);
                this.groupDG.ResumeLayout(false);
                this.groupDG.PerformLayout();

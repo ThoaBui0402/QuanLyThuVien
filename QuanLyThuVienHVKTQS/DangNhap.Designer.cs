@@ -129,7 +129,7 @@ namespace QuanLyThuVienHVKTQS
                this.Controls.Add(this.pictureBox1);
                this.Name = "DangNhap";
                this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-               this.Text = "DangNhap";
+               this.Text = "Đăng nhập";
                this.Load += new System.EventHandler(this.DangNhap_Load);
                ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                this.ResumeLayout(false);
