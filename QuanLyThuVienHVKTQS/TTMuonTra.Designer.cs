@@ -307,17 +307,17 @@ namespace QuanLyThuVienHVKTQS
                // columnHeader5
                // 
                this.columnHeader5.Text = "Ngày mượn";
-               this.columnHeader5.Width = 85;
+               this.columnHeader5.Width = 114;
                // 
                // columnHeader6
                // 
                this.columnHeader6.Text = "Hạn trả";
-               this.columnHeader6.Width = 80;
+               this.columnHeader6.Width = 96;
                // 
                // columnHeader7
                // 
                this.columnHeader7.Text = "Mã nhân viên";
-               this.columnHeader7.Width = 107;
+               this.columnHeader7.Width = 132;
                // 
                // soluongtxt
                // 

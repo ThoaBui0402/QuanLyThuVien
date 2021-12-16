@@ -447,19 +447,19 @@
                // 
                this.columnHeader2.Text = "Tên độc giả";
                this.columnHeader2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader2.Width = 120;
+               this.columnHeader2.Width = 153;
                // 
                // columnHeader4
                // 
                this.columnHeader4.Text = "Ngày sinh";
                this.columnHeader4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader4.Width = 110;
+               this.columnHeader4.Width = 166;
                // 
                // columnHeader3
                // 
                this.columnHeader3.Text = "Ngày làm thẻ";
                this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-               this.columnHeader3.Width = 114;
+               this.columnHeader3.Width = 213;
                // 
                // searchtxt
                // 
