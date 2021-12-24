@@ -39,8 +39,6 @@
                this.hanthedg = new System.Windows.Forms.DateTimePicker();
                this.ngaythedg = new System.Windows.Forms.DateTimePicker();
                this.ngaysinhdg = new System.Windows.Forms.DateTimePicker();
-               this.button7 = new System.Windows.Forms.Button();
-               this.pictureBox1 = new System.Windows.Forms.PictureBox();
                this.emaildgtxt = new System.Windows.Forms.TextBox();
                this.label6 = new System.Windows.Forms.Label();
                this.gioitinhdgtxt = new System.Windows.Forms.TextBox();
@@ -67,7 +65,6 @@
                this.label10 = new System.Windows.Forms.Label();
                this.groupdg_btn.SuspendLayout();
                this.groupDG.SuspendLayout();
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
                this.groupBox1.SuspendLayout();
                this.SuspendLayout();
                // 
@@ -184,8 +181,6 @@
                this.groupDG.Controls.Add(this.hanthedg);
                this.groupDG.Controls.Add(this.ngaythedg);
                this.groupDG.Controls.Add(this.ngaysinhdg);
-               this.groupDG.Controls.Add(this.button7);
-               this.groupDG.Controls.Add(this.pictureBox1);
                this.groupDG.Controls.Add(this.emaildgtxt);
                this.groupDG.Controls.Add(this.label6);
                this.groupDG.Controls.Add(this.gioitinhdgtxt);
@@ -240,27 +235,6 @@
                this.ngaysinhdg.Name = "ngaysinhdg";
                this.ngaysinhdg.Size = new System.Drawing.Size(231, 24);
                this.ngaysinhdg.TabIndex = 29;
-               // 
-               // button7
-               // 
-               this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-               this.button7.Location = new System.Drawing.Point(405, 175);
-               this.button7.Margin = new System.Windows.Forms.Padding(4);
-               this.button7.Name = "button7";
-               this.button7.Size = new System.Drawing.Size(100, 28);
-               this.button7.TabIndex = 28;
-               this.button7.Text = "Ảnh mới";
-               this.button7.UseVisualStyleBackColor = true;
-               // 
-               // pictureBox1
-               // 
-               this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-               this.pictureBox1.Location = new System.Drawing.Point(385, 21);
-               this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-               this.pictureBox1.Name = "pictureBox1";
-               this.pictureBox1.Size = new System.Drawing.Size(132, 143);
-               this.pictureBox1.TabIndex = 27;
-               this.pictureBox1.TabStop = false;
                // 
                // emaildgtxt
                // 
@@ -512,7 +486,6 @@
                this.groupdg_btn.ResumeLayout(false);
                this.groupDG.ResumeLayout(false);
                this.groupDG.PerformLayout();
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                this.groupBox1.ResumeLayout(false);
                this.groupBox1.PerformLayout();
                this.ResumeLayout(false);
@@ -542,10 +515,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.TextBox emaildgtxt;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button button7;
         private System.Windows.Forms.ListView listView_DG;
         private System.Windows.Forms.ColumnHeader STT;
         private System.Windows.Forms.ColumnHeader columnHeader1;
