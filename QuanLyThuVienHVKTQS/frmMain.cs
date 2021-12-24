@@ -136,5 +136,11 @@ namespace QuanLyThuVienHVKTQS
         {
 
         }
-    }
+
+          private void trợGiúpToolStripMenuItem_Click(object sender, EventArgs e)
+          {
+               HD a = new HD();
+               a.Show();
+          }
+     }
 }

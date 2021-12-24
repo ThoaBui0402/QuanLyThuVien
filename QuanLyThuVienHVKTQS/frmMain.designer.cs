@@ -66,7 +66,7 @@
                // 
                // quanLiHêThôngToolStripMenuItem
                // 
-               this.quanLiHêThôngToolStripMenuItem.BackColor = System.Drawing.Color.Teal;
+               this.quanLiHêThôngToolStripMenuItem.BackColor = System.Drawing.Color.MintCream;
                this.quanLiHêThôngToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.đăngXuâtToolStripMenuItem,
             this.toolStripSeparator1,
@@ -102,10 +102,11 @@
                this.trợGiúpToolStripMenuItem.Name = "trợGiúpToolStripMenuItem";
                this.trợGiúpToolStripMenuItem.Size = new System.Drawing.Size(282, 32);
                this.trợGiúpToolStripMenuItem.Text = "Trợ giúp";
+               this.trợGiúpToolStripMenuItem.Click += new System.EventHandler(this.trợGiúpToolStripMenuItem_Click);
                // 
                // quanLiDanhMucToolStripMenuItem
                // 
-               this.quanLiDanhMucToolStripMenuItem.BackColor = System.Drawing.Color.Teal;
+               this.quanLiDanhMucToolStripMenuItem.BackColor = System.Drawing.Color.MintCream;
                this.quanLiDanhMucToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.danhMucĐôcGiaToolStripMenuItem,
             this.danhMucNhânViênToolStripMenuItem,
@@ -236,6 +237,6 @@
         private System.Windows.Forms.ToolStripMenuItem quanlynguoidung_toolStripMenuItem;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ToolStripMenuItem trợGiúpToolStripMenuItem;
-    }
+     }
 }
 

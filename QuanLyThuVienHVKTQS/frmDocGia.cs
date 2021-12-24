@@ -154,12 +154,12 @@ namespace QuanLyThuVienHVKTQS
                 var entity = new docgia();
 
                 entity.sothe =Convert.ToInt32(sothetxt.Text);
-                entity.hoten = tendgtxt.Text;
+                entity.hoten = tendgtxt.Text.ToString();
                 entity.ngaysinh = ngaysinhdg.Value;
-                entity.gioitinh = gioitinhdgtxt.Text;
-                entity.diachi = diachidgtxt.Text;
-                entity.email = emaildgtxt.Text;
-                entity.socmtnd = socmtnddgtxt.Text;
+                entity.gioitinh = gioitinhdgtxt.Text.ToString();
+                entity.diachi = diachidgtxt.Text.ToString();
+                entity.email = emaildgtxt.Text.ToString();
+                entity.socmtnd = socmtnddgtxt.Text.ToString();
                 entity.ngaylamthe = ngaythedg.Value;
                 entity.handungthe = hanthedg.Value;
 

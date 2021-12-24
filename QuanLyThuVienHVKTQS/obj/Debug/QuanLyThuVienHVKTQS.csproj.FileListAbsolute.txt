@@ -1295,3 +1295,4 @@ D:\TT_Nhom\CloneGit\QLTV-T12\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyT
 D:\TT_Nhom\CloneGit\QLTV-T12\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.csproj.CopyComplete
 D:\TT_Nhom\CloneGit\QLTV-T12\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.exe
 D:\TT_Nhom\CloneGit\QLTV-T12\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.pdb
+D:\TT_Nhom\CloneGit\QLTV-T12\QuanLyThuVien\QuanLyThuVienHVKTQS\obj\Debug\QuanLyThuVienHVKTQS.HD.resources

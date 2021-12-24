@@ -108,6 +108,12 @@
     <Compile Include="frmUser.designer.cs">
       <DependentUpon>frmUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="HD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HD.Designer.cs">
+      <DependentUpon>HD.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model\QuanLiThuVienHVKTQS.cs">
       <DependentUpon>QuanLiThuVienHVKTQS.dbml</DependentUpon>
     </Compile>
@@ -133,6 +139,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HD.resx">
+      <DependentUpon>HD.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TTMuonTra.resx">
       <DependentUpon>TTMuonTra.cs</DependentUpon>

@@ -102,9 +102,9 @@ namespace QuanLyThuVienHVKTQS
             {
                 var user = new User();
                 
-                user.UserName = usernametxt.Text;
-                user.Password = passwordtxt.Text;
-                user.IsAdmin = Convert.ToBoolean(isadmincbx.Text);
+                user.UserName = usernametxt.Text.ToString();
+                user.Password = passwordtxt.Text.ToString();
+                user.IsAdmin = Convert.ToBoolean(isadmincbx.Text.ToString());
 
                 var entity = new UserController();
                 if(entity.Add(user)>0)
@@ -122,9 +122,9 @@ namespace QuanLyThuVienHVKTQS
             {
                 var user = new User();
                 user.ID =Convert.ToInt32(IDtxt.Text);
-                user.UserName = usernametxt.Text;
-                user.Password = passwordtxt.Text;
-                user.IsAdmin =Convert.ToBoolean(isadmincbx.Text);
+                user.UserName = usernametxt.Text.ToString();
+                user.Password = passwordtxt.Text.ToString();
+                user.IsAdmin =Convert.ToBoolean(isadmincbx.Text.ToString());
 
                 var entity = new UserController();
                 if (entity.Edit(user))
@@ -151,7 +151,7 @@ namespace QuanLyThuVienHVKTQS
         private void search_usertxt_TextChanged(object sender, EventArgs e)
         {
             QuanLiThuVienHVKTQSDataContext db = new QuanLiThuVienHVKTQSDataContext();
-            var list = (from u in db.Users where (u.ID.ToString().Contains(search_usertxt.Text) || u.UserName.ToString().Contains(search_usertxt.Text)) select u).ToList();
+            var list = (from u in db.Users where (u.ID.ToString().Contains(search_usertxt.Text.ToString()) || u.UserName.ToString().Contains(search_usertxt.Text.ToString())) select u).ToList();
             listView_User.Items.Clear();
             int i = 1;
             foreach (User u in list)

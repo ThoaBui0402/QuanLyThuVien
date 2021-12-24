@@ -180,19 +180,19 @@ namespace QuanLyThuVienHVKTQS
             {
                 sach entity = new sach();
                 //txtMaSach.Text = "";
-                entity.tensach = txtTenSach.Text;
-                entity.tentacgia = txtTacGia.Text;
+                entity.tensach = txtTenSach.Text.ToString();
+                entity.tentacgia = txtTacGia.Text.ToString();
                 entity.manxb = Convert.ToInt32(cbbNXB.SelectedValue.ToString());
                 if (txtNamXB.Text.Length > 0)
-                    entity.namxb = Convert.ToInt32(txtNamXB.Text);
+                    entity.namxb = Convert.ToInt32(txtNamXB.Text.ToString());
                 if (txtSoTrang.Text.Length > 0)
-                    entity.sotrang = Convert.ToInt32(txtSoTrang.Text);
+                    entity.sotrang = Convert.ToInt32(txtSoTrang.Text.ToString());
                 if (txtGiaTien.Text.Length > 0)
                     entity.giatien = Convert.ToDecimal(txtGiaTien.Text);
                 if (txtSoLuong.Text.Length > 0)
                     entity.soluong = Convert.ToInt32(txtSoLuong.Text);
-                entity.ngonngu = txtNgonNgu.Text;
-                entity.theloai = txtTheLoai.Text;
+                entity.ngonngu = txtNgonNgu.Text.ToString();
+                entity.theloai = txtTheLoai.Text.ToString();
                 var s = new SachController();
                 int t = s.Add(entity);
                 if (t > 0)
@@ -213,8 +213,8 @@ namespace QuanLyThuVienHVKTQS
                     entity.giatien = Convert.ToDecimal(txtGiaTien.Text);
                 if (txtSoLuong.Text.Length > 0)
                     entity.soluong = Convert.ToInt32(txtSoLuong.Text);
-                entity.ngonngu = txtNgonNgu.Text;
-                entity.theloai = txtTheLoai.Text;
+                entity.ngonngu = txtNgonNgu.Text.ToString();
+                entity.theloai = txtTheLoai.Text.ToString();
                 var s = new SachController();
                 if (s.Edit(entity))
                     HienThiSach();
