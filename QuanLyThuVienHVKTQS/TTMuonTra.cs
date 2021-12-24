@@ -159,7 +159,7 @@ namespace QuanLyThuVienHVKTQS
                 if (ms.Add(entity) > 0)
                     Hienthi_MS();
                 else
-                    MessageBox.Show("Thêm không thành công");
+                    MessageBox.Show("Thêm không thành công!");
             }
             else if (Them_bool == false && Sua_bool == true)
             {
@@ -176,7 +176,7 @@ namespace QuanLyThuVienHVKTQS
                 if (ms.Edit(entity))
                     Hienthi_MS();
                 else
-                    MessageBox.Show("Sửa không thành công");
+                    MessageBox.Show("Sửa không thành công!");
 
             }
         }
